@@ -1,0 +1,501 @@
+EmployeeID	EmployeeName	Age	Gender	Ethnicity	HireDate	Department	JobRole	Location	Salary	PerformanceRating	SatisfactionScore	Tenure	TrainingHours	AbsenteeismDays	Attrition	RecruitmentSource	BenefitsScore	PromotionLast3Years	WorkLifeBalanceScore	OverTime	ManagerID	ManagerRating
+EMP-10001	Thomas Brumley	50	Female	Hispanic	01-09-2014	HR	Coordinator	London	91842.96	4	9	3.6	28.7	13	No	Campus	3	Yes	2	No	158	2
+EMP-10002	Patricia Hirasaki	36	Female	Other	29-12-2010	Finance	Developer	London	82763.16	2	7	7.3	16.1	5	No	Employee Referral	4	No	5	Yes	105	3
+EMP-10003	John Huston	29	Male	White	17-02-2017	IT	Manager	New York	72728.8	5	10	5.1	7	5	Yes	Employee Referral	10	No	1	No	128	5
+EMP-10004	Benjamin Farhat	42	Male	White	13-09-2014	Sales	Coordinator	Tokyo	81246.92	4	5	6.4	24.8	1	Yes	LinkedIn	10	No	1	Yes	116	5
+EMP-10005	Charles McCrossin	40	Male	Other	10-03-2022	IT	Manager	San Francisco	79515.67	4	8	5.6	4.2	21	No	Employee Referral	10	No	3	No	159	1
+EMP-10006	Alan Haines	44	Female	Other	26-09-2021	Marketing	Developer	Tokyo	101175.25	1	2	5.4	35.1	19	No	Walk-in	10	No	5	Yes	121	5
+EMP-10007	Ralph Arnett	32	Other	Asian	27-03-2020	Sales	Coordinator	Tokyo	77484.88	4	7	6.3	26.2	24	Yes	LinkedIn	10	No	1	No	123	3
+EMP-10008	Greg Maxwell	32	Male	White	05-10-2016	HR	Developer	New York	69253.75	1	4	5.4	16.9	14	Yes	Campus	3	Yes	3	No	180	4
+EMP-10009	Henry Goldwyn	45	Male	Hispanic	11-07-2011	Finance	Coordinator	New York	81744.14	5	9	2.6	31.3	27	No	LinkedIn	1	Yes	4	Yes	184	3
+EMP-10010	David Wiener	57	Female	Black	05-04-2012	IT	Developer	New York	77977.28	5	1	7.2	22.6	16	Yes	LinkedIn	8	No	5	No	150	2
+EMP-10011	Carlos Soltero	45	Male	Black	09-09-2017	Sales	Analyst	Berlin	51435.1	5	7	6.6	34.5	28	No	Job Portal	10	Yes	4	No	149	5
+EMP-10012	Julia West	24	Other	Other	19-05-2022	Marketing	Developer	Tokyo	74765.22	3	6	0.8	37.1	7	No	Job Portal	10	No	1	Yes	110	5
+EMP-10013	Laurel Elliston	43	Other	Asian	12-06-2017	Sales	Analyst	London	73488.93	5	8	3.7	23	4	No	LinkedIn	2	No	5	No	155	5
+EMP-10014	Thomas Seio	23	Male	Black	10-08-2019	Marketing	Developer	San Francisco	66841.92	4	5	7.1	27.6	16	Yes	Employee Referral	1	No	3	Yes	170	5
+EMP-10015	Tracy Blumstein	45	Male	White	30-03-2020	HR	Coordinator	Berlin	90533.75	2	1	1.3	32.1	19	No	Job Portal	8	Yes	1	No	141	1
+EMP-10016	Alejandro Grove	51	Female	Other	24-04-2014	Finance	Coordinator	London	63214.81	1	1	6.9	15.9	0	No	Campus	7	No	5	Yes	138	1
+EMP-10017	Erin Creighton	59	Other	Hispanic	12-12-2020	HR	Coordinator	Tokyo	81834.28	3	9	4.7	32.1	21	No	Walk-in	7	Yes	5	Yes	168	4
+EMP-10018	Maya Herman	23	Other	Other	31-10-2015	IT	Executive	New York	72782.15	5	10	7.7	15.7	17	No	Job Portal	4	No	4	Yes	147	5
+EMP-10019	Justin Ellison	42	Male	Hispanic	31-07-2016	Sales	Manager	Tokyo	76615.43	5	6	5	35.7	14	Yes	LinkedIn	9	No	1	No	156	2
+EMP-10020	Jasper Cacioppo	54	Female	Other	12-02-2019	Marketing	Coordinator	San Francisco	81176.79	2	10	3.6	25.6	4	No	Employee Referral	6	No	3	No	120	4
+EMP-10021	Vivek Grady	33	Other	Other	12-08-2011	Marketing	Analyst	Berlin	55386.38	2	5	5.6	15.6	6	No	Walk-in	2	No	3	No	181	5
+EMP-10022	Victoria Pisteka	43	Other	Other	06-07-2015	Sales	Coordinator	Berlin	77874.91	3	1	4.9	24.2	17	No	Job Portal	1	Yes	1	Yes	198	1
+EMP-10023	Meg Tillman	46	Female	Hispanic	28-03-2014	Sales	Executive	San Francisco	109334.21	1	6	3.4	24.6	5	No	Employee Referral	1	No	1	Yes	119	2
+EMP-10024	Carl Jackson	48	Female	Hispanic	22-10-2010	IT	Analyst	London	51648.55	5	6	9.4	40.7	21	No	Employee Referral	9	Yes	2	No	114	4
+EMP-10025	Nona Balk	49	Other	Other	09-06-2015	HR	Executive	London	74135.88	3	3	3.1	31.7	20	No	Employee Referral	4	No	4	No	168	2
+EMP-10026	Phillina Ober	37	Other	Black	15-07-2018	Marketing	Analyst	Berlin	91848.59	4	8	0.5	20.4	4	Yes	LinkedIn	5	Yes	1	Yes	176	5
+EMP-10027	Erin Smith	36	Female	Asian	18-08-2014	IT	Developer	Berlin	79524.29	4	1	8.2	46.5	29	No	Campus	3	No	1	No	150	3
+EMP-10028	Bill Eplett	24	Other	Asian	10-02-2013	HR	Manager	New York	85319.5	3	1	3.8	36.3	18	No	Employee Referral	4	No	2	Yes	175	2
+EMP-10029	Eva Jacobs	58	Male	Asian	27-08-2015	IT	Manager	London	39365.01	5	6	4.4	26.6	9	No	Walk-in	8	No	2	No	161	2
+EMP-10030	Carlos Soltero	28	Male	Hispanic	14-03-2022	Marketing	Executive	San Francisco	83973.74	3	10	4.3	14.5	14	No	Job Portal	4	No	5	No	184	1
+EMP-10031	Michelle Ellison	42	Female	Hispanic	10-06-2022	Sales	Manager	London	63574.68	5	1	3.9	25.8	9	No	Walk-in	9	No	3	No	136	5
+EMP-10032	Logan Haushalter	30	Female	Black	04-10-2012	Sales	Executive	New York	79648.16	2	6	3.5	27.8	26	Yes	LinkedIn	9	Yes	4	No	105	2
+EMP-10033	MaryBeth Skach	39	Female	Asian	19-11-2016	HR	Executive	Berlin	74558.48	3	1	3	33.7	15	Yes	LinkedIn	6	No	5	Yes	170	5
+EMP-10034	Dean Braden	25	Male	Asian	28-08-2019	Finance	Executive	Berlin	109175	5	6	5.1	36.1	11	Yes	Walk-in	2	Yes	1	No	125	1
+EMP-10035	Sanjit Engle	46	Other	Other	26-10-2022	HR	Manager	New York	83200.43	3	3	4.2	38.1	17	Yes	Campus	10	No	2	No	107	5
+EMP-10036	Saphhira Shifley	35	Male	Hispanic	01-06-2013	Finance	Executive	San Francisco	73310.64	3	8	6.5	13.9	22	No	LinkedIn	7	No	3	Yes	172	1
+EMP-10037	Erin Ashbrook	30	Other	Asian	07-09-2020	IT	Manager	Berlin	52354.61	5	6	6	32.1	0	No	LinkedIn	9	No	5	No	190	1
+EMP-10038	Clay Ludtke	47	Male	Black	06-12-2013	IT	Executive	Tokyo	76817.2	5	1	3.1	28.4	15	No	Walk-in	6	No	3	No	103	4
+EMP-10039	John Stevenson	23	Other	Black	26-07-2011	Marketing	Coordinator	Berlin	87348.43	1	5	5.2	56.8	21	No	LinkedIn	3	No	2	No	120	5
+EMP-10040	Ann Blume	41	Male	Asian	10-07-2016	Finance	Executive	Tokyo	73791.72	3	8	4.2	30.6	5	No	Campus	7	No	5	Yes	130	3
+EMP-10041	Dean Braden	49	Female	Hispanic	30-05-2013	Marketing	Analyst	New York	67415.15	4	3	3	23.8	2	No	Campus	5	Yes	5	No	120	4
+EMP-10042	Zuschuss Carroll	28	Male	Black	16-09-2015	Sales	Executive	New York	66411.2	3	6	6.4	31.1	1	Yes	Campus	1	No	3	No	124	1
+EMP-10043	Astrea Jones	29	Other	Other	05-10-2010	Finance	Developer	Berlin	83027.12	3	5	4.8	29.9	27	No	Job Portal	3	No	2	Yes	114	3
+EMP-10044	Joy Daniels	56	Male	Black	03-03-2015	HR	Executive	London	86390.82	5	6	4.2	10.1	1	No	Campus	5	No	1	No	134	2
+EMP-10045	Kean Takahito	35	Male	White	16-07-2022	Sales	Analyst	Tokyo	95418.15	3	10	3.3	34.1	29	No	Campus	7	No	5	No	148	2
+EMP-10046	Todd Sumrall	38	Male	White	19-06-2013	Sales	Analyst	San Francisco	60075	3	1	2.9	26.9	12	No	Job Portal	3	Yes	1	No	142	4
+EMP-10047	Katrina Willman	57	Female	Hispanic	06-11-2012	HR	Manager	Berlin	82889.66	4	7	9	29.7	8	No	Employee Referral	6	No	2	Yes	140	3
+EMP-10048	Clay Cheatham	25	Male	Asian	06-07-2012	Sales	Coordinator	San Francisco	73174.44	5	9	5.7	21.3	15	Yes	LinkedIn	5	No	5	No	136	5
+EMP-10049	Barry Französisch	23	Female	Hispanic	04-06-2012	Finance	Executive	Berlin	73616.49	3	2	2.8	19.1	26	No	Campus	1	Yes	5	No	156	3
+EMP-10050	Don Weiss	27	Female	Hispanic	15-07-2017	Marketing	Manager	London	81027.39	2	10	5.6	38.8	4	No	LinkedIn	10	Yes	1	No	141	4
+EMP-10051	Stewart Visinsky	25	Male	Hispanic	22-01-2010	Sales	Coordinator	London	81114.84	1	5	7.1	41.1	22	Yes	Walk-in	6	No	4	No	146	5
+EMP-10052	Toby Carlisle	50	Male	Hispanic	06-07-2022	Finance	Executive	London	82931.52	4	10	5.3	34.2	27	No	LinkedIn	8	No	1	Yes	191	5
+EMP-10053	Theone Pippenger	39	Male	Other	27-09-2018	IT	Developer	London	59137.93	3	4	7.7	11.9	20	No	Job Portal	1	No	1	Yes	160	2
+EMP-10054	Rob Dowd	47	Other	Other	11-06-2016	Finance	Executive	New York	63752.83	2	6	1.9	34.8	6	No	LinkedIn	2	No	4	No	113	3
+EMP-10055	Greg Hansen	55	Male	Black	18-11-2011	Marketing	Analyst	New York	97288.02	3	6	1	12	12	No	LinkedIn	4	No	2	Yes	167	5
+EMP-10056	Rick Hansen	31	Female	White	12-10-2010	Finance	Analyst	Tokyo	71691.41	3	2	5.5	23.4	19	No	LinkedIn	2	Yes	2	No	152	4
+EMP-10057	Jason Gross	57	Male	Hispanic	05-04-2020	HR	Developer	San Francisco	79590.22	5	2	5.6	38.7	23	No	Employee Referral	9	No	5	Yes	183	2
+EMP-10058	Denny Blanton	35	Other	Black	02-02-2012	Marketing	Manager	Berlin	90819.99	5	4	-1.7	36.6	28	No	Employee Referral	10	Yes	3	No	133	5
+EMP-10059	Eric Barreto	52	Male	White	25-08-2016	IT	Coordinator	Berlin	81951.65	5	1	3.8	34.6	26	No	Walk-in	8	No	3	Yes	175	3
+EMP-10060	Bruce Degenhardt	36	Other	Asian	12-11-2016	HR	Executive	New York	83197.84	2	9	3	43.1	29	No	Job Portal	8	No	5	No	196	2
+EMP-10061	Bryan Davis	29	Other	Other	29-01-2010	Finance	Analyst	Berlin	88418.67	3	7	2.2	35.6	25	Yes	LinkedIn	4	No	3	Yes	123	3
+EMP-10062	Art Foster	35	Male	White	25-06-2012	Marketing	Manager	New York	43250.04	1	7	3	9.8	12	No	LinkedIn	5	No	1	Yes	119	3
+EMP-10063	Darrin Van	44	Female	Asian	02-07-2018	IT	Developer	Tokyo	67650.75	4	3	6.2	26.3	26	Yes	LinkedIn	4	No	1	Yes	168	3
+EMP-10064	Lindsay Shagiari	42	Other	White	13-12-2020	HR	Analyst	San Francisco	82029.09	5	3	3	29.6	25	No	LinkedIn	9	Yes	4	No	129	2
+EMP-10065	Debra Catini	37	Male	Other	14-03-2018	IT	Developer	Tokyo	95814.66	5	1	3	28.4	6	No	Employee Referral	2	No	4	Yes	187	5
+EMP-10066	Kimberly Carter	39	Male	Other	11-11-2016	Finance	Executive	London	75991.43	3	3	1.8	23.8	9	No	Walk-in	8	Yes	5	Yes	106	1
+EMP-10067	Sung Chung	45	Female	Black	10-10-2022	IT	Coordinator	London	62329.25	3	3	7.5	19.7	14	No	Campus	2	No	5	Yes	135	5
+EMP-10068	Edward Becker	47	Other	Hispanic	19-11-2019	Sales	Analyst	London	62728.71	2	4	5.9	54	20	Yes	Job Portal	1	No	5	No	137	2
+EMP-10069	Max Ludwig	46	Other	White	24-09-2019	HR	Analyst	Tokyo	88257.92	2	4	0	26.1	26	No	LinkedIn	10	No	1	Yes	179	1
+EMP-10070	Chuck Sachs	50	Male	White	24-12-2013	IT	Executive	Berlin	71733.4	5	3	3	53.5	5	No	Walk-in	3	No	3	Yes	151	1
+EMP-10071	George Bell	36	Male	Asian	11-03-2019	Finance	Manager	San Francisco	74892	3	10	6.1	18.6	4	No	Campus	9	No	5	Yes	114	1
+EMP-10072	George Ashbrook	22	Female	Other	31-05-2011	Finance	Coordinator	London	84225.45	1	8	7.6	36.6	22	Yes	Walk-in	3	Yes	5	No	145	4
+EMP-10073	Sam Zeldin	46	Female	White	08-02-2010	IT	Analyst	London	31477.14	4	8	6.7	32.3	27	No	Employee Referral	9	No	1	No	122	2
+EMP-10074	Noel Staavos	28	Other	Other	25-02-2019	Finance	Coordinator	London	105005.51	3	1	4.3	20.8	1	No	Campus	7	No	1	No	111	4
+EMP-10075	Frank Olsen	30	Other	White	05-06-2012	Marketing	Analyst	San Francisco	64033.89	3	7	1.1	25.3	20	No	Walk-in	10	No	1	No	192	1
+EMP-10076	Brendan Murry	45	Male	Black	15-10-2017	Marketing	Coordinator	London	78629.05	2	2	6.7	29.8	14	Yes	Employee Referral	1	No	3	No	143	4
+EMP-10077	Erin Mull	22	Other	Hispanic	14-01-2016	Marketing	Developer	San Francisco	49429.54	4	1	4.4	21.6	25	No	Walk-in	10	No	5	Yes	114	4
+EMP-10078	Annie Thurman	29	Female	White	03-01-2013	Sales	Analyst	London	68661.88	5	3	5.1	27.4	15	No	Walk-in	5	No	2	No	192	2
+EMP-10079	Laurel Elliston	45	Female	Other	29-12-2014	IT	Coordinator	Tokyo	93670.32	3	4	4.6	6.4	18	No	Campus	9	Yes	2	No	148	3
+EMP-10080	Alejandro Ballentine	32	Male	Black	07-10-2018	Sales	Manager	Tokyo	46257.49	5	6	2.3	37.1	8	No	Employee Referral	3	No	5	No	120	4
+EMP-10081	Sanjit Engle	38	Female	White	22-08-2018	Finance	Developer	San Francisco	91893	3	10	5.7	42.3	28	No	LinkedIn	9	No	5	No	114	4
+EMP-10082	Ken Heidel	29	Female	Asian	21-06-2018	Sales	Developer	Tokyo	70894.56	5	5	5.5	34.5	21	Yes	Job Portal	5	No	5	No	113	1
+EMP-10083	Bill Eplett	56	Female	Hispanic	01-09-2019	Finance	Manager	San Francisco	82307.47	4	4	4.1	52.6	28	No	Campus	9	No	5	No	141	1
+EMP-10084	Sean Wendt	56	Female	White	06-05-2020	Finance	Coordinator	Tokyo	84862.87	2	8	5.9	36.8	25	No	Employee Referral	10	Yes	3	No	179	1
+EMP-10085	Brosina Hoffman	54	Male	Black	06-12-2017	HR	Executive	Tokyo	81621.32	4	4	2.3	41.4	18	Yes	Walk-in	6	Yes	2	Yes	114	5
+EMP-10086	Gary Zandusky	26	Male	Asian	16-06-2019	Marketing	Manager	San Francisco	62025.74	1	10	4.5	42.4	6	No	Employee Referral	9	Yes	4	Yes	162	4
+EMP-10087	Sung Pak	49	Other	Black	13-08-2019	Finance	Coordinator	Berlin	69531.76	2	2	5.1	2.5	3	No	Job Portal	7	No	2	Yes	167	1
+EMP-10088	Pamela Stobb	28	Female	Black	15-09-2012	HR	Manager	Tokyo	53076.66	4	3	1.5	34.2	29	No	Job Portal	7	Yes	2	Yes	126	2
+EMP-10089	Barry Weirich	30	Other	Asian	09-04-2021	Marketing	Manager	London	82376.94	1	6	4.9	16.2	2	No	LinkedIn	8	No	1	No	186	5
+EMP-10090	Daniel Raglin	29	Male	Black	09-01-2021	Finance	Analyst	Berlin	100530.83	3	8	6.5	18.2	23	Yes	LinkedIn	7	No	5	Yes	192	3
+EMP-10091	Sue Ann	33	Male	Asian	11-06-2021	Finance	Coordinator	San Francisco	47633.39	3	8	4.4	19.9	28	No	Job Portal	9	No	5	Yes	152	4
+EMP-10092	Mike Caudle	55	Male	White	10-08-2014	Sales	Executive	Berlin	63575.31	5	9	4.9	26.9	19	No	Campus	9	No	5	No	151	4
+EMP-10093	Xylona Preis	54	Male	Asian	10-10-2022	Sales	Analyst	New York	72273.37	2	7	6.1	36.5	10	Yes	Campus	6	Yes	1	No	162	2
+EMP-10094	Natalie Fritzler	44	Male	Asian	07-11-2020	Marketing	Manager	New York	77600.12	3	2	4.2	34.3	0	No	Walk-in	7	Yes	3	No	172	3
+EMP-10095	Shirley Daniels	45	Male	Hispanic	22-07-2012	Finance	Manager	Tokyo	88187.64	2	8	4.4	29.9	5	No	LinkedIn	2	No	3	Yes	152	3
+EMP-10096	Bill Shonely	58	Male	Asian	08-11-2019	IT	Manager	Tokyo	72717	3	7	2.6	37.2	25	No	Walk-in	9	Yes	4	Yes	156	5
+EMP-10097	Ralph Arnett	56	Female	Asian	08-11-2018	Sales	Coordinator	London	70260.62	5	8	5	37.8	10	Yes	LinkedIn	1	No	3	No	151	4
+EMP-10098	Lindsay Shagiari	43	Other	White	04-06-2015	Marketing	Coordinator	Berlin	91546.96	4	3	4.3	34.4	26	No	Job Portal	1	No	3	No	142	1
+EMP-10099	Jamie Frazer	48	Male	Hispanic	30-01-2015	Finance	Analyst	New York	84929.93	5	7	6	12.8	0	Yes	Campus	3	No	5	Yes	106	2
+EMP-10100	Troy Staebel	56	Female	Other	15-05-2018	Finance	Executive	Tokyo	83084.67	1	10	6.1	22.6	20	No	Campus	6	Yes	2	No	141	2
+EMP-10101	Anna Gayman	22	Female	White	03-03-2012	IT	Analyst	Berlin	76687.74	3	9	6.6	30.3	6	Yes	Job Portal	5	No	3	No	103	2
+EMP-10102	Dan Lawera	56	Other	White	02-03-2012	Marketing	Developer	Tokyo	89747.28	1	3	4	37.3	5	No	Walk-in	2	Yes	3	No	168	2
+EMP-10103	Erin Ashbrook	58	Male	Other	15-12-2014	Finance	Manager	Tokyo	65155.36	1	10	0.6	16.7	13	No	Walk-in	9	No	1	No	104	1
+EMP-10104	Elizabeth Moffitt	35	Other	Asian	05-03-2016	Sales	Manager	New York	63109.59	2	6	6.5	29.9	1	No	Employee Referral	10	No	4	Yes	174	1
+EMP-10105	Jamie Kunitz	24	Male	Black	20-11-2019	IT	Manager	New York	86191.51	3	2	5.9	14.3	26	No	LinkedIn	4	No	1	No	191	5
+EMP-10106	Bradley Nguyen	22	Female	Hispanic	27-05-2014	Marketing	Analyst	Tokyo	50624.46	1	2	3.7	40.3	3	Yes	Walk-in	4	No	5	No	179	4
+EMP-10107	Dana Kaydos	26	Female	Black	11-09-2012	IT	Analyst	San Francisco	76382.69	4	5	6.1	32.4	10	No	Job Portal	5	No	2	Yes	140	1
+EMP-10108	Tamara Chand	47	Female	Other	25-01-2020	Sales	Manager	Tokyo	70251.62	1	5	2.1	16.5	14	No	Walk-in	8	No	4	No	193	5
+EMP-10109	Arthur Gainer	35	Female	White	04-04-2019	Marketing	Analyst	Tokyo	53913.68	4	7	7.1	16.5	17	No	Campus	10	No	1	Yes	103	3
+EMP-10110	Guy Phonely	48	Other	White	04-06-2011	IT	Coordinator	London	61030.99	2	2	4.3	33.9	26	Yes	LinkedIn	4	Yes	3	No	101	4
+EMP-10111	Kelly Collister	30	Male	Hispanic	14-08-2011	HR	Coordinator	London	73365.36	1	7	3.3	43.7	0	No	Employee Referral	5	No	3	Yes	166	1
+EMP-10112	Maria Bertelson	36	Male	White	16-11-2012	Sales	Analyst	London	90509.45	5	5	3.8	19	2	No	LinkedIn	4	No	4	No	120	3
+EMP-10113	Helen Andreada	36	Other	White	13-12-2019	Sales	Manager	San Francisco	65205.63	2	6	4.5	37.9	2	No	Campus	6	Yes	3	Yes	169	5
+EMP-10114	John Lucas	47	Male	Hispanic	03-03-2022	Sales	Analyst	San Francisco	93200.72	4	8	5	24.6	27	Yes	Campus	3	Yes	1	No	142	1
+EMP-10115	Theone Pippenger	34	Female	Hispanic	17-08-2012	HR	Analyst	Tokyo	75947.69	2	10	5.1	38.2	6	No	Campus	8	Yes	1	No	181	1
+EMP-10116	Nathan Mautz	53	Male	Other	24-11-2011	HR	Analyst	London	94655.77	1	4	4.1	36.8	0	No	Campus	6	Yes	3	No	168	3
+EMP-10117	Theresa Swint	53	Female	White	04-09-2020	Finance	Developer	San Francisco	65932.63	3	7	5.4	31.6	24	No	Job Portal	10	No	3	No	108	1
+EMP-10118	Theresa Coyne	25	Other	White	01-04-2022	IT	Coordinator	New York	74267.86	3	6	5	11.7	10	No	Employee Referral	5	No	5	No	183	2
+EMP-10119	Rick Huthwaite	51	Male	Other	25-01-2018	Finance	Executive	Tokyo	80527.25	4	10	3.7	36.8	5	No	Campus	2	No	2	No	127	1
+EMP-10120	Michael Grace	58	Other	Asian	11-06-2011	IT	Executive	Berlin	72307.34	4	2	3.4	35	19	No	Campus	10	No	4	Yes	125	4
+EMP-10121	Thomas Thornton	44	Male	Asian	30-10-2018	HR	Developer	Tokyo	89295.36	3	8	6.2	34.1	2	No	Walk-in	10	No	1	Yes	181	3
+EMP-10122	Nancy Lomonaco	36	Female	Asian	03-03-2016	HR	Analyst	Berlin	41886.54	4	10	6	32	18	No	Employee Referral	7	Yes	4	Yes	182	4
+EMP-10123	Logan Haushalter	50	Other	Other	27-02-2019	Finance	Developer	London	111336.08	2	9	5.1	21.2	1	No	LinkedIn	2	No	5	Yes	102	5
+EMP-10124	Kelly Andreada	57	Male	White	09-11-2020	Marketing	Developer	Berlin	87866.62	5	5	6.8	40.8	17	Yes	Employee Referral	1	No	1	No	172	4
+EMP-10125	Toby Ritter	34	Female	Other	19-02-2015	Finance	Manager	London	72397.02	5	10	1.1	39	29	No	Employee Referral	7	No	5	Yes	199	2
+EMP-10126	Ed Ludwig	53	Other	Other	30-10-2014	IT	Coordinator	New York	66715.17	2	4	3.9	19.2	11	No	Employee Referral	5	No	5	No	194	2
+EMP-10127	Lela Donovan	28	Other	Asian	05-06-2011	Finance	Executive	Berlin	62003.69	5	6	2.7	43.1	28	Yes	Campus	1	No	3	No	148	4
+EMP-10128	Pauline Webber	43	Male	Black	13-10-2012	Sales	Analyst	Tokyo	84684.23	1	8	9.5	31.3	9	No	Campus	4	Yes	4	No	116	5
+EMP-10129	Aaron Hawkins	49	Male	White	27-04-2010	IT	Executive	London	89924.73	2	3	6.4	31.3	4	Yes	Job Portal	4	No	4	No	162	1
+EMP-10130	Lisa Ryan	23	Male	Asian	30-08-2016	IT	Executive	Tokyo	72562.11	4	10	4.8	28.2	8	No	LinkedIn	10	Yes	3	No	154	2
+EMP-10131	Dianna Arnett	27	Female	Black	07-08-2011	Marketing	Coordinator	San Francisco	91604.86	2	1	6.6	29.2	1	No	Walk-in	7	No	4	Yes	122	4
+EMP-10132	Tracy Collins	49	Male	Black	30-01-2011	HR	Executive	London	61391.1	3	4	7.2	43.7	1	No	Employee Referral	9	No	3	Yes	133	4
+EMP-10133	Gary Hansen	49	Other	Hispanic	16-05-2020	IT	Executive	Berlin	58742.84	4	4	7.2	40.3	27	No	LinkedIn	2	Yes	1	No	168	4
+EMP-10134	Lena Cacioppo	41	Other	White	31-07-2017	HR	Developer	London	102200.12	3	1	6.8	40.1	5	Yes	LinkedIn	1	No	5	No	114	1
+EMP-10135	Karen Seio	51	Male	Black	30-05-2021	Finance	Coordinator	Tokyo	83866.63	4	9	4.5	31.8	28	No	Job Portal	2	Yes	5	No	146	3
+EMP-10136	Harry Marie	32	Male	Asian	27-07-2020	Sales	Manager	New York	95952.72	5	3	4	38.9	9	Yes	Walk-in	7	No	4	No	102	5
+EMP-10137	Aaron Bergman	49	Other	Hispanic	01-10-2010	Marketing	Analyst	London	62190.9	2	5	3.1	21.7	17	No	Employee Referral	10	No	2	No	182	3
+EMP-10138	William Brown	46	Female	White	07-07-2015	HR	Executive	Berlin	61147.12	1	6	6	35.8	11	No	Walk-in	6	No	5	No	127	5
+EMP-10139	Michael Kennedy	54	Male	Other	20-02-2022	IT	Analyst	San Francisco	69620.86	4	8	4.7	28.5	3	No	Job Portal	4	Yes	3	Yes	102	5
+EMP-10140	Michael Granlund	22	Male	Asian	21-10-2013	HR	Manager	New York	62639.12	4	6	4.2	9.4	21	No	Campus	1	No	2	No	103	4
+EMP-10141	Becky Martin	48	Other	Black	07-10-2019	IT	Analyst	San Francisco	85580.48	3	3	4.1	14.1	20	No	LinkedIn	1	No	2	No	187	2
+EMP-10142	Natalie Fritzler	34	Male	Black	16-11-2022	HR	Manager	London	63733.11	5	6	7.9	23.4	16	No	Employee Referral	5	No	5	Yes	130	4
+EMP-10143	Patrick Gardner	24	Female	Asian	15-06-2010	IT	Developer	Tokyo	57424.95	3	1	6.9	34.2	14	No	Campus	1	Yes	5	Yes	144	1
+EMP-10144	Susan Vittorini	27	Other	Black	17-04-2014	Finance	Executive	Tokyo	77130.23	3	4	8.7	23.4	5	No	Job Portal	7	No	5	No	158	5
+EMP-10145	Bradley Drucker	29	Male	Hispanic	30-12-2011	IT	Manager	Berlin	55650.21	5	6	6.1	24.1	15	No	Walk-in	1	No	3	Yes	144	2
+EMP-10146	Emily Ducich	48	Other	White	06-08-2015	IT	Analyst	Tokyo	48008.04	1	7	5.1	37.6	16	No	LinkedIn	1	Yes	2	Yes	174	5
+EMP-10147	Brendan Dodson	30	Male	Hispanic	29-06-2021	Sales	Executive	New York	76998.86	3	10	4.9	24.4	2	No	Employee Referral	2	No	4	No	136	5
+EMP-10148	Karen Daniels	58	Male	Black	29-07-2019	IT	Developer	Tokyo	48761.7	3	3	3	43.3	9	Yes	Campus	10	No	3	Yes	164	4
+EMP-10149	Lena Creighton	54	Male	Other	18-02-2012	Sales	Executive	Berlin	86629.19	4	9	2.5	41.7	4	No	Campus	3	No	1	No	108	2
+EMP-10150	Roger Demir	45	Female	White	02-08-2010	Marketing	Manager	London	54069.99	5	7	6	30.2	13	Yes	LinkedIn	1	No	5	Yes	116	2
+EMP-10151	Patrick Gardner	36	Female	White	20-04-2020	Sales	Developer	London	41389.89	2	1	3.1	37.5	25	No	Walk-in	9	No	2	No	164	5
+EMP-10152	Joseph Airdo	53	Other	Asian	26-04-2014	Finance	Analyst	Tokyo	70593.05	1	2	5.4	36.2	28	Yes	Job Portal	10	No	3	No	102	2
+EMP-10153	Mick Hernandez	53	Male	Asian	14-09-2016	Sales	Developer	San Francisco	77168.92	1	1	7.2	27.5	20	No	Walk-in	8	Yes	1	No	125	2
+EMP-10154	Emily Phan	45	Male	Other	15-01-2018	Marketing	Developer	London	82372.13	5	9	3.7	38.6	12	No	Walk-in	5	No	3	Yes	152	4
+EMP-10155	Delfina Latchford	33	Female	White	15-07-2018	Finance	Coordinator	Tokyo	77580.24	4	9	9	40.1	25	No	Walk-in	2	No	3	No	130	3
+EMP-10156	Bruce Stewart	23	Male	Other	15-08-2011	HR	Developer	Berlin	59110.31	4	7	3	20.5	5	No	LinkedIn	5	No	4	No	125	1
+EMP-10157	Alex Grayson	24	Female	Asian	13-06-2017	HR	Developer	Tokyo	85695.92	5	10	7	31.5	11	No	LinkedIn	6	No	4	No	122	3
+EMP-10158	Corey Catlett	58	Male	Asian	15-12-2011	Sales	Executive	London	89402.08	4	3	5.8	31.4	25	No	Job Portal	1	No	3	No	129	2
+EMP-10159	Tony Chapman	38	Other	White	24-07-2012	Sales	Analyst	Berlin	56913.57	1	5	7.4	38.5	7	No	Walk-in	4	No	1	No	109	5
+EMP-10160	Stewart Carmichael	23	Male	Hispanic	16-11-2021	Marketing	Executive	Tokyo	72284.91	1	4	2.8	25.6	4	Yes	LinkedIn	9	No	2	No	171	1
+EMP-10161	Jason Gross	23	Male	Black	02-01-2010	Marketing	Executive	New York	70883.4	2	7	9.6	24	29	No	Job Portal	2	No	2	Yes	188	1
+EMP-10162	Sally Hughsby	49	Female	Asian	19-10-2017	IT	Manager	Berlin	78305.72	5	9	4.6	31.7	14	No	Job Portal	5	No	5	Yes	163	5
+EMP-10163	Natalie Fritzler	44	Male	Asian	27-01-2021	Marketing	Executive	New York	71926.14	3	2	6.4	41.8	26	No	Walk-in	1	Yes	5	No	121	1
+EMP-10164	Valerie Takahito	58	Male	Hispanic	04-05-2015	IT	Coordinator	San Francisco	73981.83	3	8	7.9	18	15	Yes	Employee Referral	4	Yes	2	Yes	114	5
+EMP-10165	Brian Dahlen	53	Female	Hispanic	06-07-2012	Finance	Coordinator	Berlin	84627.23	2	9	3.8	19.8	0	No	Walk-in	4	No	3	No	155	1
+EMP-10166	Christine Kargatis	54	Other	Other	10-09-2018	Sales	Manager	New York	58292.2	2	10	6.7	24.8	15	No	Employee Referral	6	No	3	No	173	3
+EMP-10167	Lauren Leatherbury	22	Other	Other	20-02-2016	Finance	Analyst	London	86060.6	4	10	3.5	26.6	4	No	Job Portal	10	No	4	No	119	1
+EMP-10168	Chad Sievert	40	Female	Black	31-03-2010	Marketing	Analyst	London	92116.99	2	9	7.8	12.3	2	No	LinkedIn	9	Yes	4	Yes	146	4
+EMP-10169	Julie Kriz	23	Female	Black	06-09-2014	Finance	Executive	San Francisco	99512.02	2	10	3.5	45	19	No	Campus	3	Yes	5	Yes	186	5
+EMP-10170	Paul Van	47	Female	White	10-12-2015	Finance	Executive	Berlin	42849.49	3	7	5.1	28.7	14	No	Job Portal	9	Yes	2	No	152	1
+EMP-10171	Clytie Kelty	53	Female	Other	09-08-2021	Finance	Executive	Berlin	72256.48	4	9	5.6	27.2	12	No	LinkedIn	6	Yes	3	No	152	5
+EMP-10172	Speros Goranitis	27	Female	Asian	30-04-2018	Marketing	Analyst	Berlin	45523.49	2	9	6.6	46.2	23	No	Job Portal	7	Yes	2	No	100	4
+EMP-10173	Randy Ferguson	53	Other	Other	16-04-2010	Finance	Developer	San Francisco	38474.04	2	3	8.9	37.2	15	No	Walk-in	10	No	1	Yes	101	1
+EMP-10174	Pamela Coakley	25	Other	Asian	05-06-2012	IT	Coordinator	Berlin	77161.4	4	4	4.1	24.6	22	Yes	Employee Referral	2	No	2	Yes	157	1
+EMP-10175	Fred Wasserman	32	Female	Hispanic	04-03-2011	Marketing	Developer	London	69012.72	5	2	7.3	31.6	10	Yes	Job Portal	10	No	1	Yes	118	4
+EMP-10176	Noah Childs	38	Male	Other	11-03-2015	Finance	Developer	New York	79497.76	4	10	8.9	29.6	20	No	LinkedIn	6	No	4	No	161	4
+EMP-10177	Carlos Meador	59	Female	Hispanic	13-11-2010	Marketing	Analyst	London	82291.92	3	3	5.3	44.5	1	No	Walk-in	6	No	4	Yes	177	4
+EMP-10178	Jim Karlsson	45	Male	Black	27-09-2011	HR	Developer	London	93718.44	5	5	3.9	28.3	21	No	Campus	2	Yes	5	Yes	171	5
+EMP-10179	George Zrebassa	26	Female	Black	10-04-2015	IT	Manager	New York	75808.81	1	5	1.5	15.6	26	Yes	Walk-in	2	Yes	2	Yes	111	4
+EMP-10180	Xylona Preis	55	Female	White	19-08-2015	Finance	Executive	London	118850.33	4	6	8.8	11.2	5	Yes	Employee Referral	2	No	2	Yes	125	5
+EMP-10181	Hallie Redmond	27	Other	Other	11-08-2018	HR	Manager	San Francisco	79596.15	3	7	4.5	44.8	25	No	Walk-in	10	No	1	No	126	3
+EMP-10182	Tanja Norvell	43	Male	Hispanic	20-03-2016	HR	Coordinator	New York	102637.19	5	7	3	22.1	25	Yes	Campus	1	No	4	No	128	1
+EMP-10183	Larry Hughes	32	Male	Asian	10-12-2013	Marketing	Executive	London	40007.43	4	1	2.3	36.7	29	No	LinkedIn	5	No	1	Yes	114	1
+EMP-10184	Max Engle	37	Other	Black	07-07-2011	HR	Developer	Tokyo	95246.09	2	2	3	30.7	26	Yes	Job Portal	8	No	4	Yes	145	2
+EMP-10185	Vivian Mathis	54	Other	Black	17-12-2011	IT	Coordinator	London	72288.59	4	9	6.8	25.8	5	Yes	Employee Referral	2	No	1	Yes	100	3
+EMP-10186	Katharine Harms	30	Other	Asian	16-09-2020	IT	Executive	San Francisco	45774.79	1	10	7.1	27.4	13	No	Campus	5	No	4	Yes	159	4
+EMP-10187	Amy Hunt	27	Other	Hispanic	10-09-2014	Sales	Developer	Berlin	81308.18	4	2	6.3	45.8	24	No	Employee Referral	8	No	1	Yes	191	4
+EMP-10188	Dave Poirier	37	Male	Hispanic	13-04-2019	IT	Manager	London	70455.67	5	6	5.3	15.5	10	No	Walk-in	10	No	4	No	156	3
+EMP-10189	Becky Castell	50	Male	Other	12-01-2013	HR	Executive	Berlin	83700.8	5	1	2.5	26.1	7	No	Employee Referral	5	No	1	Yes	102	4
+EMP-10190	Jeremy Ellison	24	Female	Other	08-07-2021	IT	Developer	Tokyo	90166.15	4	3	3.5	39.1	7	No	Campus	2	Yes	2	Yes	117	2
+EMP-10191	Paul Gonzalez	41	Female	White	08-09-2010	Marketing	Manager	London	52662.75	5	2	2.8	17.2	0	No	Job Portal	3	No	5	Yes	151	5
+EMP-10192	Clay Ludtke	57	Other	Black	27-08-2016	Sales	Coordinator	New York	90223.78	2	3	6.1	43.2	20	No	Job Portal	6	No	1	No	159	1
+EMP-10193	Seth Vernon	40	Other	Other	17-08-2015	HR	Coordinator	Berlin	75097.19	4	5	2.9	38.9	6	No	Employee Referral	5	No	5	No	133	3
+EMP-10194	Adam Bellavance	47	Other	Hispanic	04-04-2011	Sales	Coordinator	Tokyo	95292.62	2	10	3.6	32.7	5	Yes	LinkedIn	4	No	2	No	195	1
+EMP-10195	Denny Blanton	24	Female	Asian	27-07-2010	HR	Coordinator	New York	71922.78	2	6	4.6	25	20	No	Employee Referral	4	No	2	No	192	5
+EMP-10196	Robert Waldorf	40	Female	Hispanic	18-06-2012	Marketing	Analyst	New York	67943.87	3	9	1.7	15.9	7	Yes	Walk-in	5	No	4	No	188	3
+EMP-10197	Grace Kelly	41	Female	Black	24-06-2019	Sales	Executive	New York	75405.81	4	10	5.1	37.1	18	No	Job Portal	2	No	5	Yes	159	5
+EMP-10198	Harry Greene	53	Female	Hispanic	09-04-2019	Finance	Executive	New York	76527.91	5	4	4.8	57.5	21	No	Job Portal	9	No	3	No	125	4
+EMP-10199	Cathy Armstrong	28	Female	White	22-01-2010	HR	Analyst	London	65058.23	2	7	7.4	31.5	20	No	Job Portal	2	Yes	4	Yes	171	4
+EMP-10200	Matt Connell	54	Female	Black	14-02-2011	Finance	Developer	London	67555.43	3	6	3.4	11.7	23	No	LinkedIn	10	No	5	No	118	4
+EMP-10201	Steven Roelle	39	Female	Asian	13-06-2012	Sales	Developer	London	56596.87	4	2	2.4	34.6	19	No	LinkedIn	2	No	1	No	121	5
+EMP-10202	Ed Ludwig	22	Other	White	30-05-2011	Finance	Coordinator	Tokyo	68480.32	4	10	4.3	38.6	7	No	Campus	10	Yes	1	No	192	5
+EMP-10203	Roy Französisch	32	Other	Black	02-04-2021	Finance	Manager	Tokyo	85144.65	1	8	2.8	20.8	25	No	Employee Referral	9	Yes	2	No	132	5
+EMP-10204	Henry MacAllister	49	Other	Asian	05-11-2015	Sales	Developer	Tokyo	72939.69	1	7	5.1	23.5	13	No	Employee Referral	3	No	3	No	137	1
+EMP-10205	Becky Martin	46	Other	White	05-11-2019	Marketing	Manager	San Francisco	90135.98	2	7	1.3	22.5	17	No	Walk-in	10	No	1	No	134	5
+EMP-10206	Craig Leslie	44	Female	White	04-02-2018	Finance	Executive	Tokyo	72218.56	1	8	3.8	24.7	24	No	Job Portal	7	No	5	No	166	4
+EMP-10207	Charles Crestani	52	Male	Black	10-04-2014	Finance	Manager	London	53527.23	2	1	3.1	28.3	28	Yes	LinkedIn	4	Yes	5	No	182	2
+EMP-10208	Cari Schnelling	51	Female	Other	20-06-2013	Marketing	Executive	London	83959.12	5	1	6.1	21.4	15	Yes	Walk-in	6	No	1	No	109	5
+EMP-10209	Jill Fjeld	56	Male	White	10-12-2015	Finance	Analyst	San Francisco	64895.65	2	8	3.4	17.6	8	No	Walk-in	4	No	5	No	190	2
+EMP-10210	Jim Sink	28	Other	White	18-12-2019	Finance	Analyst	San Francisco	71499.49	1	4	1.5	31.7	14	No	LinkedIn	10	Yes	5	No	114	4
+EMP-10211	Sandra Glassco	37	Female	Asian	20-01-2012	Finance	Coordinator	Tokyo	93563.58	5	5	4.6	28.2	29	No	Employee Referral	7	Yes	2	Yes	110	5
+EMP-10212	Olvera Toch	47	Other	Hispanic	21-05-2019	IT	Developer	Berlin	57586.94	1	8	5.6	25.6	25	No	Job Portal	1	No	3	Yes	189	1
+EMP-10213	Paul Stevenson	23	Female	Black	12-04-2015	Marketing	Coordinator	San Francisco	77471.16	2	5	4.5	30.8	9	No	Employee Referral	3	No	2	No	123	1
+EMP-10214	Chloris Kastensmidt	22	Other	Black	01-06-2020	Finance	Executive	New York	74392.22	3	10	3.8	14.8	28	No	Walk-in	3	No	3	No	176	2
+EMP-10215	John Grady	33	Male	Other	20-02-2020	Marketing	Coordinator	London	85513.89	4	4	3.7	32.6	21	No	Job Portal	1	Yes	5	No	195	1
+EMP-10216	Ross DeVincentis	26	Male	Other	14-06-2016	HR	Manager	New York	87827.3	1	6	5.2	25.8	15	Yes	Campus	6	No	3	No	103	1
+EMP-10217	Toby Carlisle	58	Male	Black	24-05-2016	HR	Executive	London	78957.59	2	5	3.2	32.4	3	No	Walk-in	9	No	5	No	112	1
+EMP-10218	Lena Cacioppo	53	Female	Other	03-11-2010	Finance	Analyst	London	69594.38	5	7	4.3	34	19	No	Employee Referral	8	Yes	5	Yes	172	4
+EMP-10219	Ruben Ausman	30	Male	Asian	14-01-2020	Marketing	Developer	San Francisco	82100.59	1	10	6.5	41.3	12	No	Employee Referral	7	No	2	Yes	156	1
+EMP-10220	Sung Pak	56	Female	Black	13-06-2015	Marketing	Executive	San Francisco	95034.84	1	7	2.4	31	21	No	Employee Referral	10	No	2	Yes	197	3
+EMP-10221	Randy Bradley	40	Male	Other	24-10-2011	Marketing	Executive	New York	74590.65	4	4	4.9	40.7	4	No	LinkedIn	8	Yes	4	Yes	136	5
+EMP-10222	Fred Hopkins	37	Male	Black	19-09-2022	IT	Manager	London	70991.16	2	5	1.4	26.8	21	No	Walk-in	6	No	1	No	147	1
+EMP-10223	Jay Kimmel	24	Female	Hispanic	08-11-2010	HR	Developer	New York	80822.55	3	3	5.5	27.3	6	No	Job Portal	9	No	4	No	170	1
+EMP-10224	Rick Reed	41	Female	White	30-12-2017	Marketing	Analyst	Berlin	75580.91	5	4	3	29.1	22	No	Employee Referral	3	No	4	No	100	1
+EMP-10225	Anne McFarland	45	Male	Black	18-12-2012	Marketing	Executive	New York	54934.36	2	4	7	37.7	8	Yes	Employee Referral	10	Yes	3	No	159	3
+EMP-10226	Jas O'Carroll	54	Female	White	19-02-2018	IT	Executive	Tokyo	78589.96	5	3	2	36.3	7	No	LinkedIn	10	Yes	5	Yes	111	1
+EMP-10227	Don Jones	45	Male	Other	25-01-2012	IT	Manager	New York	54798.56	1	10	5.9	31.4	28	No	Job Portal	9	No	5	Yes	120	1
+EMP-10228	Charles McCrossin	32	Female	White	23-04-2021	Marketing	Coordinator	Tokyo	80617.21	4	5	7.4	17.7	15	No	Walk-in	4	No	5	No	110	5
+EMP-10229	Bart Pistole	29	Other	Black	07-06-2022	Sales	Analyst	Tokyo	63042.86	4	5	2.9	36.1	5	No	Campus	7	Yes	1	Yes	143	3
+EMP-10230	Allen Armold	57	Other	Hispanic	19-12-2010	Marketing	Developer	Tokyo	75553.12	3	7	3.3	21.4	27	Yes	LinkedIn	9	Yes	3	Yes	157	3
+EMP-10231	Alex Russell	59	Other	Other	21-06-2012	Marketing	Executive	Berlin	80858.91	4	4	3.1	20.8	15	Yes	Walk-in	2	Yes	3	No	143	1
+EMP-10232	Bradley Talbott	41	Other	Black	24-08-2020	IT	Executive	New York	111808.55	1	4	4	18.6	5	No	Campus	2	No	5	Yes	177	3
+EMP-10233	Trudy Brown	56	Other	Other	08-06-2010	IT	Analyst	New York	86141.25	3	9	6	29.2	13	No	Employee Referral	9	No	4	No	197	2
+EMP-10234	Katrina Willman	46	Male	Asian	01-06-2015	Marketing	Coordinator	Berlin	95471.98	2	6	3.9	42.1	20	No	Employee Referral	3	No	1	Yes	133	3
+EMP-10235	Brian Thompson	56	Other	White	14-08-2012	Marketing	Executive	London	103076.22	4	4	2.8	20.3	0	No	Job Portal	9	Yes	4	Yes	124	3
+EMP-10236	Ruben Ausman	46	Other	Asian	03-09-2015	Marketing	Analyst	San Francisco	82338.84	3	2	1	46.8	24	No	Campus	5	No	2	Yes	103	3
+EMP-10237	Joel Eaton	50	Other	Black	08-02-2011	IT	Manager	New York	79285.35	1	6	8.2	39.1	8	No	Employee Referral	6	Yes	3	Yes	163	4
+EMP-10238	Nick Radford	39	Other	Hispanic	17-08-2022	Marketing	Coordinator	San Francisco	58999.18	5	2	8.4	15.4	24	No	Employee Referral	2	No	3	No	189	4
+EMP-10239	Theresa Swint	39	Female	Other	11-08-2017	Marketing	Developer	Berlin	73250.55	5	5	6.1	26.2	26	No	Job Portal	8	No	4	No	115	4
+EMP-10240	Sung Shariari	23	Male	White	19-10-2013	Finance	Executive	London	64153.68	1	6	3.4	19.6	23	No	Walk-in	9	No	1	No	109	3
+EMP-10241	Roger Demir	56	Other	Other	16-06-2019	Sales	Analyst	London	68984.12	1	4	6.5	36.6	12	No	Employee Referral	2	No	3	No	165	2
+EMP-10242	Guy Armstrong	37	Other	Black	13-08-2012	HR	Manager	London	103059.95	5	3	6.9	20.1	25	Yes	LinkedIn	6	Yes	4	Yes	134	3
+EMP-10243	Muhammed Yedwab	57	Other	Other	09-09-2014	Sales	Developer	Berlin	76719.32	3	7	4.5	13.8	28	No	LinkedIn	6	Yes	1	No	182	1
+EMP-10244	Ruben Ausman	54	Male	White	17-11-2022	Finance	Analyst	Tokyo	61861.51	5	2	5.1	26.7	18	No	Walk-in	8	No	4	Yes	105	2
+EMP-10245	Theone Pippenger	25	Female	Black	27-06-2013	HR	Analyst	Tokyo	95618	1	6	7.5	41.7	16	No	Campus	10	No	1	Yes	118	4
+EMP-10246	Cyra Reiten	54	Male	Other	08-06-2020	Marketing	Developer	San Francisco	89329.13	4	4	1.7	28.1	10	Yes	Job Portal	5	No	5	No	158	5
+EMP-10247	Toby Carlisle	35	Female	Hispanic	10-03-2017	Finance	Manager	Tokyo	90114.8	2	6	7	34	27	No	LinkedIn	9	No	1	No	152	2
+EMP-10248	Michelle Arnett	42	Other	Black	10-07-2016	Marketing	Manager	Tokyo	44908.05	4	4	4.4	34.4	27	Yes	LinkedIn	1	No	2	No	107	4
+EMP-10249	Stewart Visinsky	41	Other	Black	12-12-2013	IT	Coordinator	London	104230.06	4	4	2.8	14.9	7	Yes	Walk-in	9	Yes	5	Yes	177	2
+EMP-10250	Tom Ashbrook	29	Male	Hispanic	27-02-2018	Finance	Executive	London	66622.28	1	4	2.9	21	22	No	Campus	10	Yes	4	Yes	109	2
+EMP-10251	Chloris Kastensmidt	28	Male	Asian	03-12-2014	IT	Developer	San Francisco	86669.32	5	9	3.3	30.1	28	No	Campus	7	No	5	No	166	3
+EMP-10252	Natalie DeCherney	24	Female	White	08-01-2022	Finance	Developer	New York	112857	3	7	2.6	24.4	4	No	Walk-in	4	Yes	5	Yes	137	1
+EMP-10253	Kelly Collister	38	Female	Asian	23-12-2020	Finance	Developer	San Francisco	107329.99	4	3	8.5	47	9	No	LinkedIn	3	No	4	Yes	128	5
+EMP-10254	Lena Cacioppo	54	Male	Other	26-10-2013	IT	Manager	San Francisco	60336.57	5	3	6	17.7	6	Yes	Job Portal	10	Yes	4	Yes	114	4
+EMP-10255	Rob Dowd	33	Female	Hispanic	21-09-2021	HR	Executive	Berlin	53332.24	3	6	7.1	20.9	9	No	LinkedIn	6	No	2	Yes	186	2
+EMP-10256	Evan Henry	43	Male	Asian	23-06-2013	Sales	Coordinator	Berlin	96455.2	4	6	6.1	32.9	3	No	Campus	1	No	4	Yes	122	5
+EMP-10257	Laurel Beltran	43	Female	Black	16-12-2022	Marketing	Analyst	San Francisco	77130.84	3	4	5.1	23.7	8	No	LinkedIn	3	Yes	3	No	181	2
+EMP-10258	Khloe Miller	51	Male	Other	03-03-2020	Finance	Analyst	San Francisco	67486.78	5	9	5.1	1.1	26	No	Job Portal	2	Yes	3	No	145	1
+EMP-10259	Peter Bühler	59	Male	Other	14-06-2011	Marketing	Developer	San Francisco	84318.28	2	4	4.2	49.3	25	No	Employee Referral	9	No	2	No	182	5
+EMP-10260	Kean Nguyen	59	Male	Asian	03-12-2019	IT	Executive	Tokyo	72556.81	5	9	4.4	19.3	13	No	LinkedIn	3	No	1	Yes	127	4
+EMP-10261	Duane Noonan	29	Female	Asian	06-02-2018	Marketing	Manager	Berlin	85519.86	1	4	2.2	35.6	1	Yes	Walk-in	2	Yes	1	Yes	125	2
+EMP-10262	Todd Sumrall	48	Female	Hispanic	24-12-2017	IT	Executive	San Francisco	76004.73	3	2	7.2	17.5	24	No	Employee Referral	4	No	3	No	109	1
+EMP-10263	Michelle Tran	48	Female	White	01-11-2019	Marketing	Executive	London	85835.82	2	2	1.4	21.4	8	No	Walk-in	2	Yes	4	No	146	5
+EMP-10264	Jim Mitchum	55	Male	Asian	18-11-2015	Sales	Manager	London	61582.01	3	5	2.9	13.8	20	Yes	Walk-in	1	No	2	No	103	2
+EMP-10265	Theresa Coyne	42	Female	Asian	10-07-2022	Sales	Developer	Tokyo	96366.93	3	4	9	22.6	26	No	Walk-in	6	No	1	No	154	2
+EMP-10266	Juliana Krohn	51	Female	Black	24-03-2019	Sales	Executive	Tokyo	85464.35	4	7	5.3	23.6	0	No	LinkedIn	10	Yes	1	Yes	165	4
+EMP-10267	Tony Chapman	54	Male	Other	28-07-2012	Sales	Analyst	New York	84694.46	1	5	5.4	28.7	22	No	Campus	8	No	5	No	166	1
+EMP-10268	Darren Koutras	49	Other	White	10-06-2011	Sales	Manager	New York	58234.95	3	6	6.3	26.3	9	Yes	Employee Referral	10	No	3	No	106	3
+EMP-10269	Resi Pölking	54	Male	Black	02-01-2010	Sales	Coordinator	New York	100494.49	5	10	1.9	15.6	9	Yes	Job Portal	10	Yes	4	Yes	154	2
+EMP-10270	Sara Luxemburg	26	Female	Hispanic	10-01-2011	IT	Developer	Tokyo	74794.26	5	4	2.2	24.8	19	No	Campus	2	No	2	No	179	5
+EMP-10271	Thea Hudgings	40	Male	Hispanic	29-05-2016	Finance	Manager	Tokyo	85920.73	4	2	4.1	44.5	24	No	LinkedIn	9	Yes	1	No	130	4
+EMP-10272	Bryan Mills	25	Other	Asian	19-12-2020	Marketing	Coordinator	Tokyo	70157.63	1	10	3.2	43.3	21	No	Walk-in	3	Yes	5	Yes	173	4
+EMP-10273	Michael Stewart	56	Male	Asian	11-05-2018	Sales	Coordinator	London	78913.34	1	9	4.9	34.6	28	No	Job Portal	8	Yes	3	Yes	118	2
+EMP-10274	Raymond Messe	38	Female	Hispanic	23-09-2022	IT	Executive	Tokyo	79456.91	5	10	6	36.6	2	No	Employee Referral	8	No	3	Yes	127	2
+EMP-10275	Aaron Hawkins	49	Other	Asian	23-06-2016	IT	Executive	London	32701.04	2	7	7.8	50.6	5	No	Campus	3	Yes	2	No	180	2
+EMP-10276	Sue Ann	51	Female	White	06-03-2014	IT	Executive	New York	83736.72	4	4	6.6	35.7	28	No	Campus	3	No	1	Yes	127	3
+EMP-10277	Katharine Harms	50	Other	Asian	04-04-2022	Finance	Manager	New York	104480.12	4	3	3	36.4	25	No	Job Portal	6	No	2	Yes	118	2
+EMP-10278	Evan Henry	27	Other	Other	05-07-2014	Marketing	Manager	New York	83096.7	5	10	4.3	14.4	5	No	LinkedIn	1	No	2	Yes	186	1
+EMP-10279	Alan Schoenberger	56	Male	Asian	14-01-2010	Finance	Developer	San Francisco	60634.38	5	3	3.7	18.9	20	Yes	Employee Referral	4	No	5	No	119	5
+EMP-10280	Cathy Armstrong	58	Male	Black	05-08-2022	HR	Executive	San Francisco	84749.42	2	9	3	29.7	1	No	Job Portal	1	No	3	No	112	2
+EMP-10281	Jenna Caffey	45	Female	White	28-03-2016	IT	Coordinator	Berlin	90892.21	2	5	2.5	21.9	25	No	Walk-in	3	No	4	No	176	3
+EMP-10282	Larry Hughes	50	Male	Black	22-08-2018	HR	Analyst	Berlin	82687	1	3	8.3	20	25	No	Employee Referral	9	No	3	Yes	142	5
+EMP-10283	Mathew Reese	52	Male	Black	10-05-2010	Sales	Developer	Berlin	73888.09	4	5	5	21.2	17	No	Campus	5	Yes	3	No	110	4
+EMP-10284	Dorris liebe	56	Other	Other	11-06-2020	Sales	Manager	San Francisco	71367.76	4	2	4.6	15.8	22	No	Job Portal	5	No	5	No	147	2
+EMP-10285	Anne Pryor	54	Male	White	22-10-2018	Finance	Developer	San Francisco	71305.35	5	4	6	22.1	1	No	Campus	4	Yes	4	No	114	5
+EMP-10286	Philip Fox	42	Other	White	17-01-2018	Marketing	Developer	Berlin	85466.65	1	10	6.1	33.4	11	No	Campus	3	No	1	No	116	4
+EMP-10287	Randy Ferguson	53	Other	White	03-10-2020	HR	Developer	Berlin	53893.14	4	2	7.2	48	21	No	Campus	5	No	4	No	153	3
+EMP-10288	Dorothy Wardle	44	Other	White	03-08-2015	Marketing	Developer	Tokyo	69421.9	1	2	3.5	38	4	No	LinkedIn	4	Yes	1	No	149	1
+EMP-10289	Anthony Witt	54	Female	White	28-01-2010	Finance	Analyst	Berlin	98934.15	1	8	5.8	36.4	19	No	Campus	8	Yes	4	Yes	127	2
+EMP-10290	Carlos Daly	24	Female	Other	15-10-2015	Sales	Executive	Tokyo	99512.93	5	1	3.2	13.8	6	No	Walk-in	4	No	2	No	182	1
+EMP-10291	David Smith	39	Female	Asian	06-06-2013	Marketing	Coordinator	London	52827.79	1	7	4.6	31.2	23	Yes	Walk-in	8	No	4	No	103	3
+EMP-10292	Clay Cheatham	46	Other	Black	05-12-2021	Marketing	Developer	San Francisco	58028.8	2	5	5.1	29.3	15	No	Employee Referral	6	No	5	No	121	5
+EMP-10293	Lena Creighton	52	Female	White	09-08-2015	Sales	Developer	Berlin	70940.69	2	8	5.3	32.9	19	Yes	Campus	5	No	1	No	185	5
+EMP-10294	Christopher Schild	24	Female	Asian	22-06-2022	HR	Developer	San Francisco	88388.84	3	1	5.2	26.4	0	No	Campus	4	Yes	3	No	138	3
+EMP-10295	Shirley Daniels	45	Male	Asian	06-01-2021	Sales	Executive	San Francisco	47587.88	5	7	6.6	46.6	0	No	Job Portal	4	Yes	5	Yes	133	3
+EMP-10296	Evan Henry	53	Female	Black	14-01-2022	Marketing	Manager	San Francisco	74177.87	3	5	3.8	30.5	16	No	LinkedIn	4	No	1	Yes	196	2
+EMP-10297	Quincy Jones	43	Female	Other	29-03-2019	HR	Manager	London	67887.31	2	4	5.4	31.5	26	No	Employee Referral	9	No	1	No	143	4
+EMP-10298	Resi Pölking	44	Other	Hispanic	29-06-2019	HR	Analyst	New York	94889.47	3	7	3.5	10.4	0	No	Campus	4	No	3	No	141	1
+EMP-10299	Nicole Hansen	23	Other	Hispanic	09-06-2018	Sales	Manager	Berlin	49846.37	5	10	10.8	28.9	20	Yes	Job Portal	9	Yes	2	Yes	139	1
+EMP-10300	Anthony Witt	48	Other	Asian	06-05-2020	Marketing	Developer	New York	76388.11	5	2	3.2	41.5	19	No	LinkedIn	10	No	5	Yes	196	5
+EMP-10301	Robert Dilbeck	23	Other	Black	22-09-2011	Finance	Developer	New York	69095.86	1	1	3.6	35.6	12	No	Employee Referral	6	No	3	No	111	5
+EMP-10302	Joel Jenkins	47	Other	Hispanic	27-09-2010	Marketing	Developer	New York	97046.98	4	1	6.8	8.4	29	No	Employee Referral	10	No	3	No	101	2
+EMP-10303	Phillip Breyer	38	Other	Asian	24-03-2017	IT	Analyst	San Francisco	83964.79	1	1	4.1	25.5	8	No	Campus	7	No	2	No	127	3
+EMP-10304	Resi Pölking	54	Female	Other	17-06-2015	Finance	Developer	Tokyo	66212.77	5	5	6.8	47.3	14	Yes	Employee Referral	10	No	5	No	173	1
+EMP-10305	Stuart Calhoun	30	Other	Hispanic	01-12-2017	HR	Manager	San Francisco	87800.8	2	10	5.3	28.5	2	No	Job Portal	3	No	3	No	185	2
+EMP-10306	Lindsay Shagiari	50	Other	Asian	26-05-2019	Finance	Executive	San Francisco	69167.57	2	7	4.2	33.2	13	No	Employee Referral	8	Yes	2	No	180	5
+EMP-10307	Christina VanderZanden	47	Male	Asian	04-07-2013	HR	Executive	New York	89989.95	1	2	3.5	46.2	22	No	Walk-in	3	Yes	5	No	189	5
+EMP-10308	Roland Schwarz	56	Female	White	18-06-2016	HR	Coordinator	San Francisco	71443.85	5	10	3.4	28.5	10	Yes	Job Portal	1	No	4	No	166	1
+EMP-10309	Christine Sundaresam	46	Female	Other	30-07-2011	Finance	Manager	New York	90820	2	8	4.2	37.9	23	No	LinkedIn	10	No	1	No	170	5
+EMP-10310	Michael Chen	45	Female	White	31-07-2013	HR	Developer	Tokyo	81541.23	5	4	4.7	34.1	21	No	LinkedIn	5	No	2	No	171	5
+EMP-10311	Victoria Brennan	34	Other	Black	28-09-2018	HR	Executive	Berlin	123907.37	2	3	3.3	36.3	11	No	Campus	2	No	1	No	183	4
+EMP-10312	Naresj Patel	28	Other	White	14-09-2018	IT	Manager	New York	74206.56	5	10	4.8	33.8	12	No	Campus	10	No	4	Yes	175	3
+EMP-10313	Sandra Flanagan	57	Other	White	27-06-2017	Marketing	Executive	Tokyo	80742.93	3	8	2.8	24.5	25	No	Walk-in	6	No	3	Yes	198	5
+EMP-10314	Troy Blackwell	41	Male	Hispanic	22-01-2016	Marketing	Developer	Berlin	67808.63	5	2	6.5	25.5	12	No	LinkedIn	10	Yes	3	Yes	180	4
+EMP-10315	Sam Craven	22	Other	Asian	10-06-2016	IT	Executive	London	75040.28	5	3	6.9	21.5	0	No	LinkedIn	9	Yes	5	Yes	191	2
+EMP-10316	Arthur Prichep	29	Male	Other	09-10-2019	Finance	Coordinator	New York	34472.47	1	3	3.6	13.6	23	No	LinkedIn	1	Yes	2	Yes	109	5
+EMP-10317	Janet Martin	37	Female	White	14-07-2014	Sales	Coordinator	New York	81983.76	3	10	3.5	42.4	9	No	LinkedIn	4	No	2	Yes	185	2
+EMP-10318	Scot Coram	35	Other	Other	29-04-2014	Sales	Executive	London	95143.11	4	1	5.4	30.1	2	No	Employee Referral	1	No	5	Yes	156	5
+EMP-10319	Eleni McCrary	33	Male	White	13-01-2016	Sales	Manager	London	80949.45	1	6	7.5	41.9	23	No	Job Portal	1	Yes	1	No	196	1
+EMP-10320	Sanjit Engle	44	Male	Black	22-10-2013	IT	Manager	New York	55292.08	4	2	8	45.7	27	Yes	Job Portal	8	No	3	No	185	4
+EMP-10321	Emily Phan	36	Other	White	09-10-2014	IT	Manager	London	62973.19	2	1	2.2	30.5	3	No	Walk-in	2	Yes	3	Yes	136	4
+EMP-10322	Lynn Smith	49	Female	Hispanic	10-04-2015	HR	Executive	San Francisco	38547.12	4	2	7	16.9	15	No	Employee Referral	1	No	2	No	176	1
+EMP-10323	Peter Bühler	55	Female	Asian	12-09-2011	Sales	Manager	Berlin	89683.86	5	6	4.9	28	7	Yes	LinkedIn	8	No	2	No	190	3
+EMP-10324	Skye Norling	23	Female	Black	28-06-2013	Finance	Developer	Berlin	59902.3	4	4	4.9	23.3	15	No	LinkedIn	4	No	5	No	163	4
+EMP-10325	Darren Powers	53	Male	White	14-08-2012	Finance	Coordinator	Berlin	74569.37	1	6	6	10.2	26	No	Campus	3	Yes	4	No	178	2
+EMP-10326	Yoseph Carroll	44	Male	Other	24-04-2015	Sales	Developer	San Francisco	72693.94	1	9	4	25	16	No	Campus	4	No	1	Yes	185	4
+EMP-10327	Stephanie Ulpright	43	Male	Black	28-10-2020	Sales	Manager	London	97315.91	4	10	7.2	29.3	18	No	Walk-in	5	No	4	Yes	193	3
+EMP-10328	Eugene Barchas	46	Male	Black	09-07-2016	Sales	Developer	Tokyo	76279.22	1	10	7.8	23.6	21	Yes	LinkedIn	1	Yes	4	No	139	2
+EMP-10329	Linda Cazamias	43	Female	White	26-08-2012	IT	Manager	London	87133.39	1	8	7.9	22.3	14	Yes	Walk-in	1	Yes	2	Yes	197	2
+EMP-10330	Joe Elijah	43	Other	Black	09-08-2013	IT	Executive	New York	83196.96	4	1	1.3	17.2	15	No	Employee Referral	3	No	2	No	159	1
+EMP-10331	Stephanie Ulpright	27	Male	Other	09-11-2012	IT	Developer	Berlin	95391.17	3	8	4.5	32	14	No	Job Portal	6	No	2	Yes	197	5
+EMP-10332	Matt Collister	36	Male	Black	09-10-2010	Marketing	Executive	London	71413.14	3	9	1.1	48.7	24	No	LinkedIn	1	No	4	Yes	147	1
+EMP-10333	Shirley Jackson	58	Female	Other	15-10-2017	Finance	Executive	Tokyo	103044.23	2	6	3.5	42.8	1	Yes	Employee Referral	2	No	1	Yes	198	5
+EMP-10334	Rick Wilson	54	Other	White	24-11-2012	Finance	Analyst	New York	45215.07	1	10	0.2	36.5	10	Yes	LinkedIn	7	No	2	Yes	118	1
+EMP-10335	Monica Federle	29	Other	Asian	03-10-2021	HR	Manager	San Francisco	87862.1	4	5	5.9	36.8	0	No	Campus	1	Yes	3	No	171	5
+EMP-10336	Annie Zypern	26	Female	Black	07-12-2016	IT	Coordinator	San Francisco	62000.71	1	6	5.4	28.7	14	No	Walk-in	7	Yes	1	No	132	4
+EMP-10337	Adam Shillingsburg	25	Female	Asian	25-06-2020	Marketing	Manager	Tokyo	67608.76	5	6	4.1	12	25	No	Campus	4	No	3	Yes	143	2
+EMP-10338	Christine Phan	27	Other	Other	05-10-2012	Marketing	Coordinator	New York	83541.21	1	9	3.4	26.3	18	Yes	Job Portal	10	No	1	Yes	191	5
+EMP-10339	Jeremy Ellison	53	Male	Black	14-05-2013	Finance	Manager	Berlin	83421.03	1	4	5.6	20.3	3	No	Campus	6	No	2	Yes	136	4
+EMP-10340	Lena Hernandez	51	Other	Hispanic	01-11-2012	IT	Executive	London	84096.42	3	2	3	31.5	10	No	LinkedIn	8	No	5	Yes	188	3
+EMP-10341	Darrin Van	56	Female	Asian	22-07-2022	HR	Developer	New York	54207.63	4	9	2.8	42.3	4	No	Campus	9	No	2	No	135	1
+EMP-10342	Lycoris Saunders	37	Male	Black	03-10-2010	IT	Developer	San Francisco	96735.45	1	2	2.6	49.7	2	Yes	LinkedIn	6	No	4	Yes	180	3
+EMP-10343	Helen Andreada	34	Male	Asian	03-07-2017	Sales	Analyst	Tokyo	61490.29	3	10	4.6	30.6	12	No	Job Portal	9	No	4	No	187	4
+EMP-10344	Jim Karlsson	51	Female	Black	08-04-2016	IT	Coordinator	Tokyo	63490.69	2	9	3.8	13.3	9	No	Campus	4	No	1	No	120	3
+EMP-10345	Joy Daniels	40	Female	White	24-05-2013	Sales	Coordinator	London	84568.45	3	2	4.2	30.6	10	No	Walk-in	6	Yes	4	Yes	101	3
+EMP-10346	Nora Paige	38	Female	Asian	06-05-2010	Sales	Coordinator	Tokyo	70699.18	3	8	6	30.9	17	No	Walk-in	8	No	2	No	130	4
+EMP-10347	Jack O'Briant	40	Other	Hispanic	17-02-2021	HR	Executive	Tokyo	79623.91	3	9	6.9	36.8	1	No	Walk-in	9	Yes	3	No	196	2
+EMP-10348	John Huston	49	Other	Hispanic	22-10-2021	Finance	Coordinator	New York	42650.99	1	10	7.9	29.8	6	Yes	Campus	3	No	2	No	129	5
+EMP-10349	Maria Etezadi	47	Male	Other	04-08-2020	IT	Developer	Berlin	79264.87	1	9	5.1	30.7	8	No	Campus	2	No	1	No	175	1
+EMP-10350	Joy Smith	58	Female	Black	23-04-2013	Sales	Executive	London	78267.48	2	10	5.7	23.7	9	No	Campus	6	No	4	No	143	5
+EMP-10351	Tony Molinari	47	Male	Asian	24-11-2018	IT	Manager	New York	67352.12	5	9	5.4	26.9	17	No	LinkedIn	4	No	3	No	111	1
+EMP-10352	Helen Abelman	44	Male	Other	07-07-2012	Finance	Coordinator	Berlin	43888.86	5	2	1.7	35.1	22	No	Job Portal	1	Yes	5	Yes	150	5
+EMP-10353	Filia McAdams	30	Male	Asian	28-09-2020	Finance	Coordinator	New York	71807.88	5	4	4.3	9.9	6	Yes	Walk-in	8	Yes	3	No	148	3
+EMP-10354	Nicole Hansen	33	Male	Black	21-01-2022	Marketing	Manager	New York	74439.39	2	7	4.3	26.8	26	No	LinkedIn	9	No	3	No	123	2
+EMP-10355	Brenda Bowman	22	Female	Hispanic	24-05-2015	Finance	Coordinator	Tokyo	69491.57	5	2	4	36.9	6	No	Walk-in	9	No	2	No	123	3
+EMP-10356	Valerie Dominguez	22	Male	White	25-08-2017	HR	Manager	Berlin	47457.38	5	1	4.9	46.4	2	No	LinkedIn	2	No	5	No	159	2
+EMP-10357	Eric Hoffmann	55	Female	Hispanic	10-06-2012	Sales	Executive	London	98921.01	3	3	4.6	26	11	No	Campus	9	No	1	No	110	4
+EMP-10358	Trudy Glocke	53	Female	Other	29-03-2022	Marketing	Developer	London	65417.08	1	4	3	41.9	6	Yes	Walk-in	7	No	1	Yes	112	1
+EMP-10359	Kelly Williams	46	Other	White	27-07-2015	HR	Manager	Berlin	71666.93	1	8	4.7	46.9	16	No	Campus	5	No	3	Yes	190	1
+EMP-10360	Tracy Poddar	22	Female	Other	26-09-2013	IT	Analyst	Tokyo	38857.89	3	6	3.7	26.1	25	No	Walk-in	7	Yes	3	No	171	4
+EMP-10361	Roy Skaria	37	Other	Black	09-05-2010	Sales	Manager	San Francisco	98922.83	3	2	-0.2	24.4	0	No	Employee Referral	9	No	4	No	173	5
+EMP-10362	Chad Cunningham	26	Female	White	11-10-2012	Finance	Coordinator	New York	68001.75	3	9	2.2	28.2	4	No	LinkedIn	8	No	5	No	171	4
+EMP-10363	Quincy Jones	43	Female	Other	05-12-2014	Sales	Executive	Tokyo	76476.94	1	2	5.2	29.2	15	No	Employee Referral	6	No	3	No	163	4
+EMP-10364	Toby Gnade	50	Female	Black	18-08-2022	IT	Executive	Berlin	91811.06	5	5	7.2	40.9	14	Yes	LinkedIn	4	No	4	No	119	2
+EMP-10365	Sanjit Chand	24	Other	Hispanic	27-02-2014	Marketing	Manager	New York	64855.44	3	4	0.1	22.3	1	No	Job Portal	1	No	5	No	171	4
+EMP-10366	Mark Haberlin	33	Other	Black	13-06-2021	Marketing	Developer	London	89448.67	2	7	3.3	45.4	8	Yes	Walk-in	6	No	1	Yes	172	1
+EMP-10367	Mark Packer	47	Male	Asian	13-04-2013	Marketing	Analyst	San Francisco	44080.12	3	8	5.9	22	6	Yes	Job Portal	3	Yes	4	No	170	3
+EMP-10368	Lela Donovan	37	Other	Black	09-08-2020	Finance	Executive	London	83264.8	4	5	6.8	17.4	3	No	Job Portal	6	No	5	No	177	2
+EMP-10369	Adrian Barton	58	Other	Black	10-10-2016	HR	Coordinator	Berlin	98583.63	3	10	4.2	35.2	19	No	LinkedIn	6	No	4	No	127	2
+EMP-10370	Barry Gonzalez	43	Other	Asian	18-07-2019	HR	Coordinator	New York	66293.75	1	5	3.6	42.3	17	Yes	Employee Referral	4	Yes	3	No	101	5
+EMP-10371	Corey-Lock 	50	Other	Other	01-02-2021	Sales	Developer	Berlin	91783.22	3	2	7.4	31.8	20	No	Campus	2	No	2	No	142	3
+EMP-10372	Maurice Satty	35	Male	Other	08-03-2020	Finance	Executive	New York	102508.84	4	8	6.6	34.4	3	Yes	LinkedIn	9	No	1	Yes	107	2
+EMP-10373	Theresa Swint	49	Other	Black	30-10-2010	Marketing	Manager	Tokyo	71177.37	2	2	6.7	49.5	27	No	Campus	2	No	3	Yes	112	4
+EMP-10374	Odella Nelson	26	Female	Asian	27-10-2020	Marketing	Coordinator	San Francisco	69937.08	5	10	4.1	42.4	12	No	Job Portal	3	Yes	3	No	184	2
+EMP-10375	Adam Hart	51	Female	Asian	28-10-2022	IT	Developer	Tokyo	61525.59	3	6	7.2	30.3	0	No	Campus	10	No	5	Yes	191	2
+EMP-10376	Ritsa Hightower	26	Other	Hispanic	13-09-2012	IT	Executive	Tokyo	67354.05	4	8	1.1	25.7	27	No	Employee Referral	1	Yes	4	Yes	134	2
+EMP-10377	Stuart Calhoun	33	Other	Other	07-02-2015	Marketing	Executive	Berlin	62769.6	4	6	7.3	41	23	No	LinkedIn	7	Yes	1	Yes	122	5
+EMP-10378	Dan Campbell	37	Female	White	27-02-2022	Marketing	Executive	San Francisco	61513.33	2	4	4.9	38.3	2	No	Employee Referral	1	Yes	3	No	145	2
+EMP-10379	Charles Crestani	47	Female	Other	31-05-2018	Finance	Executive	New York	92982.53	1	4	5.3	34.2	15	No	Employee Referral	9	No	5	Yes	114	2
+EMP-10380	Alan Dominguez	47	Male	Other	22-07-2018	HR	Executive	New York	63151.11	3	6	3.1	26.7	29	No	LinkedIn	1	Yes	1	No	101	5
+EMP-10381	Laura Armstrong	42	Female	Hispanic	20-08-2013	IT	Coordinator	London	78877.83	4	4	1.4	29.2	21	No	Employee Referral	5	No	4	No	160	3
+EMP-10382	David Flashing	57	Female	White	05-08-2016	HR	Developer	New York	75573.5	2	8	5.2	28.5	3	Yes	Walk-in	7	Yes	3	No	175	1
+EMP-10383	Frank Preis	54	Other	Hispanic	22-01-2020	Finance	Executive	Berlin	97471.42	5	9	6.1	26.9	24	No	Walk-in	3	No	3	No	163	5
+EMP-10384	Maureen Gnade	51	Female	White	05-01-2019	Marketing	Analyst	Tokyo	67452.66	4	1	6.4	24	22	No	Walk-in	9	No	3	Yes	151	5
+EMP-10385	Maria Bertelson	58	Male	Black	16-01-2021	HR	Analyst	Tokyo	80717.22	2	4	6.2	32.7	24	Yes	Campus	8	No	1	No	135	2
+EMP-10386	Paul Knutson	44	Female	White	05-12-2011	Marketing	Developer	Tokyo	86866.05	1	4	5.7	23.5	15	No	Employee Referral	3	No	1	No	166	2
+EMP-10387	Erin Smith	31	Other	Hispanic	29-07-2011	Marketing	Manager	San Francisco	97346.24	1	2	3.2	31.8	25	No	LinkedIn	5	No	1	No	168	1
+EMP-10388	Ed Braxton	26	Other	Other	07-11-2018	Sales	Manager	New York	67233.7	4	6	6.5	9	18	No	LinkedIn	7	No	1	No	166	2
+EMP-10389	Tamara Chand	57	Female	White	17-03-2017	HR	Manager	Berlin	65731.61	4	3	2.9	24	0	No	Campus	4	No	5	No	146	4
+EMP-10390	Thomas Seio	55	Other	White	25-06-2020	HR	Analyst	San Francisco	59073.28	3	7	7.2	41	4	No	LinkedIn	5	Yes	2	Yes	182	2
+EMP-10391	Heather Kirkland	52	Male	Asian	05-11-2018	Marketing	Manager	London	108544.49	2	5	4.8	21	18	No	Walk-in	3	Yes	5	Yes	101	2
+EMP-10392	Julia Barnett	31	Male	Other	04-05-2011	Finance	Coordinator	Berlin	95767.09	4	4	4.9	35.9	21	No	Employee Referral	9	Yes	3	No	143	4
+EMP-10393	Fred Chung	40	Female	Black	09-09-2013	Sales	Executive	Berlin	74366.98	3	5	6.7	21.8	23	No	LinkedIn	10	No	5	Yes	163	1
+EMP-10394	Kunst Miller	53	Female	Hispanic	30-01-2020	Marketing	Analyst	Berlin	103971.59	3	8	7	37.8	10	Yes	LinkedIn	9	No	4	Yes	180	4
+EMP-10395	Toby Braunhardt	22	Female	Black	09-09-2018	IT	Developer	Tokyo	73472.05	4	3	6.5	27	12	No	Job Portal	7	No	1	No	177	5
+EMP-10396	Mike Gockenbach	26	Other	Other	26-07-2022	IT	Developer	Berlin	85866.16	1	7	3.4	26.6	19	Yes	Job Portal	10	No	4	Yes	127	4
+EMP-10397	Helen Wasserman	25	Male	White	26-07-2014	Sales	Executive	New York	75152.58	2	6	6.5	30.5	4	No	Job Portal	2	No	4	Yes	190	3
+EMP-10398	Patrick O'Donnell	37	Male	White	26-06-2014	Finance	Analyst	Berlin	80967.08	2	1	3.4	16.6	20	No	Employee Referral	7	No	3	No	153	5
+EMP-10399	Ross Baird	45	Other	Other	07-04-2021	Marketing	Manager	Tokyo	79376.42	1	7	6.6	39.7	3	No	Walk-in	7	No	1	No	173	2
+EMP-10400	Anthony Johnson	37	Male	White	24-09-2019	HR	Manager	Berlin	68625.22	4	7	2.1	43	3	No	Walk-in	5	Yes	4	Yes	166	5
+EMP-10401	Elizabeth Moffitt	23	Female	White	27-09-2012	Sales	Coordinator	London	91387.48	2	1	4.8	26.4	3	No	Walk-in	9	No	3	No	135	1
+EMP-10402	Ross DeVincentis	49	Female	White	30-04-2012	Finance	Coordinator	London	85739.29	4	9	3.4	35.2	3	No	Employee Referral	3	Yes	1	No	162	1
+EMP-10403	Maria Zettner	53	Female	Hispanic	20-10-2013	HR	Manager	Tokyo	90415.42	4	6	6.7	37.8	19	Yes	Employee Referral	4	No	2	No	124	4
+EMP-10404	Aimee Bixby	48	Male	Hispanic	01-03-2020	IT	Developer	New York	79803.41	3	2	7.2	29.1	20	No	Job Portal	1	Yes	3	Yes	185	5
+EMP-10405	Nicole Fjeld	41	Female	Asian	29-09-2013	IT	Developer	New York	61401.45	1	5	5.4	18.9	17	No	LinkedIn	6	No	5	Yes	147	2
+EMP-10406	Damala Kotsonis	45	Other	Black	01-04-2012	HR	Coordinator	San Francisco	100640.79	4	4	5.3	45.9	17	Yes	Campus	4	No	1	No	138	1
+EMP-10407	Jim Sink	33	Other	Other	31-03-2011	Sales	Executive	Tokyo	71061.66	5	7	6.4	26.1	15	No	Campus	1	Yes	4	Yes	146	2
+EMP-10408	Mike Kennedy	56	Male	Other	13-06-2014	IT	Manager	Berlin	80461.01	1	8	7.2	23.9	8	Yes	LinkedIn	2	Yes	4	No	193	3
+EMP-10409	Adam Shillingsburg	54	Other	Other	04-08-2017	Marketing	Coordinator	Tokyo	84530.72	2	1	5.1	46.4	17	No	Job Portal	3	No	5	No	120	1
+EMP-10410	Lena Cacioppo	54	Other	Asian	15-03-2020	HR	Coordinator	San Francisco	80361.33	3	5	4	36.1	21	Yes	LinkedIn	9	No	5	No	129	4
+EMP-10411	Jennifer Halladay	58	Male	Hispanic	14-08-2018	HR	Manager	Tokyo	88731.26	2	3	6.3	32.6	1	Yes	LinkedIn	8	No	4	No	191	3
+EMP-10412	Dave Hallsten	33	Female	Asian	13-03-2021	IT	Manager	Tokyo	91100.67	2	1	1.3	20.3	20	Yes	Campus	7	No	1	No	130	5
+EMP-10413	Russell Applegate	24	Female	Other	31-12-2015	Sales	Developer	San Francisco	71627.5	1	3	6.8	38	3	No	Job Portal	4	No	3	Yes	125	2
+EMP-10414	Liz Willingham	22	Female	Black	05-07-2012	Marketing	Executive	New York	99382.01	2	6	3.6	59	11	Yes	Employee Referral	1	No	5	Yes	121	1
+EMP-10415	Adam Bellavance	54	Male	White	30-11-2020	Sales	Executive	Berlin	70996.45	4	7	4.5	38.8	6	No	Campus	8	No	5	No	120	3
+EMP-10416	Russell D'Ascenzo	31	Other	Hispanic	15-11-2017	Finance	Manager	San Francisco	80051.24	2	8	6.8	35	14	Yes	Employee Referral	4	No	5	Yes	100	3
+EMP-10417	Kelly Collister	50	Female	Hispanic	11-12-2013	Finance	Analyst	London	69184.83	3	4	4.2	37.2	6	No	Job Portal	3	No	2	No	136	1
+EMP-10418	Dan Reichenbach	34	Female	Asian	18-01-2022	IT	Coordinator	New York	64897.9	3	3	6.3	26.7	28	Yes	LinkedIn	9	No	1	No	176	5
+EMP-10419	Nathan Cano	33	Male	Hispanic	06-01-2012	IT	Coordinator	London	90662.87	5	5	7.3	26.6	21	No	Walk-in	10	No	1	No	184	5
+EMP-10420	Neil Französisch	52	Female	Other	09-10-2019	IT	Manager	New York	121828.45	3	9	5.2	26.5	25	No	Walk-in	4	No	1	No	145	4
+EMP-10421	Muhammed Lee	23	Male	Other	21-02-2019	Finance	Analyst	Berlin	69573.6	2	6	5.6	24.3	20	Yes	Job Portal	4	No	1	No	108	5
+EMP-10422	Jane Waco	56	Other	Asian	04-04-2018	Sales	Developer	Berlin	93229.82	3	9	4.8	26.5	16	No	Walk-in	9	No	1	Yes	116	4
+EMP-10423	Edward Nazzal	44	Male	Other	29-11-2017	Sales	Manager	Tokyo	70111.33	1	6	5.2	26.4	15	No	Employee Referral	2	No	4	No	146	3
+EMP-10424	David Philippe	38	Male	Black	19-08-2012	IT	Manager	London	74842.73	3	2	2.8	27.6	27	No	Walk-in	5	Yes	5	Yes	184	1
+EMP-10425	Larry Hughes	47	Male	Asian	09-03-2018	Marketing	Coordinator	New York	101363.76	4	5	4.4	27.3	18	No	Job Portal	4	No	4	No	194	5
+EMP-10426	Craig Carroll	29	Male	Black	15-07-2020	Sales	Manager	Berlin	58896.97	1	9	2.4	32.4	8	No	Job Portal	9	No	2	Yes	158	4
+EMP-10427	Jeremy Pistek	50	Other	White	23-10-2012	Finance	Manager	San Francisco	54927.61	5	8	3.2	30.8	13	No	Employee Referral	5	Yes	3	No	153	3
+EMP-10428	Dean percer	47	Other	Black	01-08-2020	HR	Manager	Berlin	73692.02	4	7	1	31.7	16	No	Walk-in	9	No	5	Yes	185	5
+EMP-10429	Jesus Ocampo	31	Female	White	03-11-2017	HR	Coordinator	San Francisco	84954.84	2	1	5.5	45.2	4	No	Walk-in	9	No	2	Yes	111	2
+EMP-10430	Barbara Fisher	47	Other	White	06-11-2016	HR	Developer	New York	81955	2	4	8.4	30.8	1	No	LinkedIn	2	Yes	4	No	163	3
+EMP-10431	Alan Barnes	55	Other	Black	02-05-2015	Marketing	Developer	Berlin	80410.19	2	7	4.1	52.1	19	No	Campus	9	No	3	No	105	5
+EMP-10432	Evan Minnotte	28	Female	Asian	23-03-2013	IT	Manager	Berlin	75511.98	4	7	6.9	33.5	15	No	Job Portal	3	No	2	Yes	152	3
+EMP-10433	Ed Braxton	25	Other	Other	12-01-2010	Finance	Coordinator	New York	86798.1	4	6	7.3	25.5	13	No	LinkedIn	4	Yes	3	Yes	115	1
+EMP-10434	Keith Dawkins	32	Male	Other	17-01-2022	Marketing	Developer	Berlin	31294.91	4	8	2.6	43.5	13	No	Job Portal	1	Yes	2	No	189	1
+EMP-10435	Shaun Weien	50	Male	White	19-03-2019	Finance	Developer	San Francisco	63737.92	1	6	3	29.2	26	Yes	LinkedIn	1	No	4	No	104	1
+EMP-10436	Max Jones	57	Female	White	11-04-2018	Finance	Developer	Berlin	73595.81	1	10	7	6.1	0	No	Campus	1	No	3	Yes	172	2
+EMP-10437	Gene Hale	46	Female	Asian	26-03-2019	IT	Coordinator	London	85568.02	2	3	4.8	30	2	No	LinkedIn	9	Yes	2	No	145	1
+EMP-10438	Eugene Moren	42	Female	Hispanic	01-10-2017	HR	Coordinator	Tokyo	97346.48	3	4	2.4	27.5	25	No	Job Portal	8	No	4	Yes	113	2
+EMP-10439	Charles Sheldon	57	Male	Black	12-02-2010	IT	Manager	San Francisco	61723.5	2	3	3.7	46.1	6	Yes	Walk-in	5	No	5	No	143	1
+EMP-10440	Cari Sayre	31	Other	White	01-08-2012	Marketing	Executive	London	96856.18	5	1	5.8	21	25	No	Job Portal	5	No	4	Yes	162	3
+EMP-10441	Cathy Prescott	58	Male	Other	18-07-2016	Marketing	Developer	New York	68211.57	1	10	3.4	26.7	14	No	Employee Referral	9	No	4	No	193	5
+EMP-10442	Harold Dahlen	30	Female	Asian	20-12-2016	Marketing	Executive	San Francisco	73051.35	4	5	-0.5	42.7	18	No	Employee Referral	3	No	5	Yes	151	5
+EMP-10443	Tom Zandusky	45	Other	Black	08-08-2016	IT	Coordinator	Tokyo	83721.49	1	1	4.4	33.9	19	No	Employee Referral	3	No	4	No	125	1
+EMP-10444	Tom Boeckenhauer	56	Other	Asian	01-10-2012	Finance	Coordinator	Tokyo	71951.46	4	1	4.5	28.3	1	No	Employee Referral	7	Yes	5	Yes	152	5
+EMP-10445	Brian Moss	56	Male	Black	21-01-2010	Finance	Coordinator	New York	91651.76	5	2	5	22.4	18	Yes	Campus	9	No	5	Yes	128	1
+EMP-10446	Rob Lucas	57	Female	Black	11-02-2011	Sales	Executive	New York	68930.94	5	4	7.5	33.5	8	Yes	Walk-in	6	No	5	Yes	118	1
+EMP-10447	Daniel Byrd	39	Male	White	11-10-2012	Marketing	Coordinator	San Francisco	69156.98	1	6	5.1	29.7	18	No	Walk-in	2	Yes	2	No	146	4
+EMP-10448	Lauren Leatherbury	53	Other	Asian	18-02-2022	Finance	Manager	Berlin	90779.7	4	8	5.5	22.3	26	Yes	Job Portal	1	No	3	No	107	4
+EMP-10449	Michael Dominguez	45	Male	Asian	13-01-2015	Sales	Coordinator	New York	63553.13	5	3	7.1	22.8	4	No	LinkedIn	2	No	2	No	122	4
+EMP-10450	Hallie Redmond	44	Male	Other	24-09-2018	Finance	Analyst	Berlin	78733.94	2	1	5	21.9	17	No	Job Portal	1	No	5	No	134	2
+EMP-10451	Michelle Huthwaite	53	Female	Other	16-12-2011	Marketing	Executive	London	50092.76	2	3	9.3	20.1	15	No	Job Portal	10	No	3	No	194	4
+EMP-10452	Matt Abelman	58	Female	White	09-05-2021	HR	Analyst	Tokyo	102294.59	4	3	2.5	39.3	3	Yes	Job Portal	10	Yes	3	No	152	1
+EMP-10453	Pamela Stobb	33	Other	White	21-07-2020	Marketing	Coordinator	Berlin	93098.28	1	5	3.1	38	11	No	Job Portal	9	No	5	Yes	198	3
+EMP-10454	Corey Catlett	34	Male	Hispanic	06-02-2022	IT	Manager	Tokyo	116251.61	5	4	6.2	39.4	28	No	Walk-in	10	No	3	No	195	4
+EMP-10455	Victor Preis	44	Male	Other	21-05-2010	Finance	Developer	Berlin	95075.46	1	4	7.5	30	6	No	LinkedIn	8	Yes	3	Yes	157	4
+EMP-10456	Marina Lichtenstein	46	Male	Black	02-07-2022	Finance	Coordinator	London	58055.25	2	9	4.6	27.6	13	Yes	Job Portal	7	No	2	No	104	3
+EMP-10457	Toby Swindell	56	Other	Asian	21-08-2012	IT	Manager	New York	85029.75	5	7	3	27.8	22	No	Walk-in	3	No	3	No	115	1
+EMP-10458	Trudy Glocke	51	Other	White	08-01-2011	IT	Executive	London	61229.87	1	4	8.5	40.2	11	No	Job Portal	8	Yes	5	No	116	2
+EMP-10459	Dean Katz	38	Female	Asian	15-12-2019	HR	Analyst	New York	98670.56	3	3	3.4	11.8	2	No	Employee Referral	2	No	1	No	131	4
+EMP-10460	Caroline Jumper	41	Female	Asian	16-12-2016	Finance	Analyst	New York	58482.9	4	6	5.7	24.9	4	No	Job Portal	2	No	1	No	195	3
+EMP-10461	Katherine Hughes	46	Female	Hispanic	20-11-2019	Finance	Analyst	Tokyo	57762.68	4	3	7.6	21.1	16	No	Job Portal	10	Yes	1	No	151	1
+EMP-10462	Brad Eason	43	Male	Other	20-08-2014	HR	Executive	London	50852.83	3	6	4.1	43.6	25	No	Campus	3	No	5	Yes	119	5
+EMP-10463	Erin Mull	34	Male	White	16-04-2010	Sales	Manager	Berlin	67674.3	2	9	3.8	25.2	9	No	Employee Referral	7	No	1	Yes	165	2
+EMP-10464	Lisa Hazard	40	Female	Asian	09-08-2014	HR	Executive	London	64657.83	5	6	3.9	13.6	9	No	LinkedIn	1	No	2	No	183	3
+EMP-10465	Chuck Clark	57	Male	White	21-03-2021	Marketing	Analyst	Tokyo	56075.26	4	4	6.8	32.2	10	No	Job Portal	8	Yes	5	No	181	3
+EMP-10466	Eudokia Martin	33	Female	Black	30-12-2020	Finance	Coordinator	New York	104847.14	3	5	7.1	26.3	16	Yes	LinkedIn	7	No	5	Yes	100	3
+EMP-10467	Paul Gonzalez	40	Other	Hispanic	21-03-2017	IT	Developer	Tokyo	82948.21	3	6	5.1	24.4	4	Yes	Employee Referral	4	Yes	5	Yes	157	4
+EMP-10468	Ryan Akin	33	Female	Black	08-11-2015	Marketing	Executive	San Francisco	81183.52	2	3	8.8	23.4	12	Yes	Job Portal	5	No	3	Yes	192	5
+EMP-10469	Dean percer	30	Other	White	10-05-2019	Finance	Executive	San Francisco	98837.47	2	8	5.1	23	9	Yes	Campus	10	No	3	Yes	192	2
+EMP-10470	Benjamin Patterson	28	Male	White	04-03-2022	HR	Manager	Berlin	78843.87	1	4	7.6	37.1	8	No	Walk-in	1	No	3	No	182	1
+EMP-10471	Cynthia Delaney	49	Female	Other	01-09-2019	Marketing	Manager	Tokyo	63769.8	4	8	4.1	32.2	16	No	Campus	4	Yes	4	No	143	1
+EMP-10472	Stephanie Phelps	35	Male	Asian	10-07-2013	Finance	Executive	Berlin	49496.85	1	10	9.7	28	0	No	Campus	1	No	2	No	105	5
+EMP-10473	Alex Avila	52	Other	Asian	15-09-2018	Sales	Analyst	Berlin	62924.14	3	10	8.1	19	3	No	Walk-in	1	Yes	5	No	149	3
+EMP-10474	Evan Minnotte	40	Other	Black	03-01-2020	Sales	Developer	San Francisco	97581.23	5	3	4.7	28.3	3	Yes	Walk-in	10	No	5	No	171	3
+EMP-10475	Shaun Chance	37	Other	Hispanic	17-06-2016	IT	Manager	Berlin	56169.96	5	10	7.9	32.6	17	No	Walk-in	1	No	3	Yes	187	3
+EMP-10476	Irene Maddox	26	Male	Asian	21-03-2011	Finance	Analyst	San Francisco	80296.91	2	7	7.8	33	8	Yes	Job Portal	7	No	5	Yes	119	3
+EMP-10477	John Lucas	56	Male	Other	05-02-2010	Sales	Coordinator	New York	90508.88	5	9	8.1	31.6	29	No	LinkedIn	7	No	5	No	113	3
+EMP-10478	Corey Catlett	33	Male	Black	15-01-2014	HR	Manager	Tokyo	79280.17	5	4	0	20.8	24	No	LinkedIn	4	No	1	Yes	104	5
+EMP-10479	Christine Sundaresam	46	Male	Black	01-11-2020	Finance	Analyst	Berlin	80984.75	5	8	6.4	6	28	No	Walk-in	2	No	5	No	140	4
+EMP-10480	Frank Gastineau	42	Other	Other	04-12-2014	HR	Analyst	San Francisco	84834.06	3	3	6.1	48	28	No	Campus	3	No	4	Yes	139	2
+EMP-10481	Ted Trevino	57	Other	Hispanic	20-01-2015	HR	Developer	London	80689.21	5	7	5.9	16.9	17	No	Employee Referral	8	No	3	Yes	133	3
+EMP-10482	Thea Hudgings	44	Female	Other	09-11-2013	Sales	Developer	Berlin	99136.11	5	3	5.4	10.4	13	No	Walk-in	8	No	2	Yes	179	4
+EMP-10483	Julia Dunbar	37	Female	Hispanic	05-09-2014	Finance	Coordinator	New York	59395.62	5	7	5.5	31.3	24	Yes	Campus	6	No	2	No	144	1
+EMP-10484	Lindsay Castell	35	Male	Other	17-01-2018	Marketing	Analyst	New York	78606.37	1	10	7.6	12.9	14	No	Campus	10	Yes	1	Yes	170	5
+EMP-10485	Duane Noonan	52	Other	Other	24-07-2013	Sales	Analyst	London	47726.39	3	10	6.1	22	5	No	Job Portal	9	No	2	No	179	4
+EMP-10486	Maribeth Schnelling	26	Other	White	28-05-2013	Sales	Developer	San Francisco	43893.81	2	6	5.4	35.5	23	Yes	Job Portal	9	No	2	Yes	170	3
+EMP-10487	Annie Zypern	56	Other	Black	20-11-2020	Finance	Manager	Berlin	73774.93	1	2	7.3	47.7	9	No	LinkedIn	4	No	3	No	126	3
+EMP-10488	Lynn Smith	44	Female	Other	25-06-2018	Finance	Manager	San Francisco	83150.69	4	3	5.8	33.9	28	No	LinkedIn	1	No	3	No	177	3
+EMP-10489	Steven Ward	50	Female	Other	22-08-2022	HR	Executive	New York	99460.02	3	6	6	25.6	14	No	Employee Referral	1	Yes	4	No	177	4
+EMP-10490	Ben Peterman	32	Other	Asian	10-01-2010	Finance	Developer	San Francisco	111296.88	3	4	8.7	29.5	28	No	Employee Referral	10	No	1	No	143	3
+EMP-10491	Fred Wasserman	39	Other	Black	22-08-2016	HR	Executive	New York	94797.91	4	6	4.1	11.9	3	No	Employee Referral	5	No	2	Yes	132	4
+EMP-10492	Patrick O'Donnell	33	Other	Asian	19-07-2014	Sales	Developer	San Francisco	85907.49	4	1	2	25.5	17	No	Employee Referral	2	No	4	Yes	132	3
+EMP-10493	Adrian Hane	30	Female	Black	16-03-2017	IT	Coordinator	London	77399.47	4	10	5.1	25.5	17	No	Campus	6	No	1	No	143	1
+EMP-10494	Jennifer Jackson	31	Other	Asian	08-12-2012	Marketing	Analyst	Tokyo	52031.58	2	1	5.4	31.5	24	No	Campus	7	No	2	Yes	119	1
+EMP-10495	Art Ferguson	38	Other	Other	31-10-2018	Sales	Coordinator	London	72809.45	5	3	6.4	49.4	16	No	LinkedIn	1	Yes	2	Yes	135	2
+EMP-10496	Todd Boyes	59	Male	Other	09-08-2013	Finance	Developer	London	94355.65	3	8	5.2	10.6	11	No	Job Portal	6	No	3	No	106	3
+EMP-10497	Benjamin Farhat	28	Male	White	08-05-2021	Marketing	Analyst	Tokyo	88474.23	5	8	6.5	25.9	6	No	Job Portal	8	No	5	No	131	3
+EMP-10498	Christopher Schild	34	Female	Asian	01-02-2020	IT	Manager	Tokyo	55704.99	5	4	10	11.7	15	No	Walk-in	5	Yes	1	No	166	4
+EMP-10499	Gary Mitchum	30	Other	Hispanic	18-12-2018	IT	Manager	Berlin	84210.38	4	6	6.6	25	10	No	Campus	7	No	2	No	138	4
+EMP-10500	Jeremy Pistek	48	Other	White	26-05-2010	HR	Executive	Berlin	82925.89	2	8	7	21.4	13	No	Employee Referral	10	No	1	No	192	3
